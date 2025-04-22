@@ -30,7 +30,7 @@ El robot debe construirse con motores con caja de reducción amarilla o azul, si
 La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable.
 Ningún robot deberá alimentarse en forma externa a través de cables.
 
-## Control:
+## CONTROL:
 Se utilizará cualquier tipo de comunicación inalámbrica.
 
 ## BALÓN
@@ -78,7 +78,7 @@ Los jueces para esta competencia serán designados por el comité organizador.
 Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia.
 En caso de duda en la aplicación de las normas, el juez se regirá por el reglamento establecido haciéndolo cumplir.
 
-## Transitorios:
+## TRANSITORIOS:
 De no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición.
 Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación.
 Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero.
