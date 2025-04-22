@@ -19,13 +19,13 @@ No hay restricción con respecto a la altura.
 La masa del robot es de máximo 500 gr. Incluyendo todos sus componentes.
 
 ## DISEÑO:
- El diseño de cada robot es libre.
+El diseño de cada robot es libre.
 El tipo de tracción del robot es libre: ruedas, banda tipo oruga, patas articuladas, tipo gusano, etc.
- El orificio para manejo de pelota debe ser máximo de 3 cm.
+El orificio para manejo de pelota debe ser máximo de 3 cm.
 Se permitirá el uso de un mecanismo de pateo siempre y cuando no supere las medidas máximas en estado activo, y no ocasione retención del balón.
 
 ## MATERIALES:
- El empleo de materiales en la estructura del robot y el número de motores es libre.
+El empleo de materiales en la estructura del robot y el número de motores es libre.
 El robot debe construirse con motores con caja de reducción amarilla o azul, sin modificaciones internas o externas. 
 La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable.
 Ningún robot deberá alimentarse en forma externa a través de cables.
@@ -49,14 +49,14 @@ Se designará al equipo que empieza el juego por medio de un sorteo realizado po
 
 ## INTERRUPCIÓN Y REANUDACIÓN DEL PARTIDO
 El partido se interrumpirá a petición de los jueces cuando:
-4.1 Si uno o ambos robots presentan defectos, el operador podrá solicitar tiempo (1 minuto y solo 1 vez por cada tiempo) para repararlo.
-4.2 Se podrá realizar cambios de batería al finalizar cada encuentro, considerando que no afecte dimensiones ni peso.
-4.3 Cuando el partido haya sido interrumpido, se volverá a empezar desde la posición inicial.
-4.4 Los jueces podrán detener el partido siempre que lo consideren necesario para deliberar o permitir la entrada de los operadores a la zona del partido.
-4.5 La última decisión siempre la tendrán los jueces y será inapelable. 
-4.6 Cuando alguno de los robots haya sufrido algún daño provocado por el equipo contrario o por otras causas, que le impida continuar participando.
+Si uno o ambos robots presentan defectos, el operador podrá solicitar tiempo (1 minuto y solo 1 vez por cada tiempo) para repararlo.
+Se podrá realizar cambios de batería al finalizar cada encuentro, considerando que no afecte dimensiones ni peso.
+Cuando el partido haya sido interrumpido, se volverá a empezar desde la posición inicial.
+Los jueces podrán detener el partido siempre que lo consideren necesario para deliberar o permitir la entrada de los operadores a la zona del partido.
+La última decisión siempre la tendrán los jueces y será inapelable. 
+Cuando alguno de los robots haya sufrido algún daño provocado por el equipo contrario o por otras causas, que le impida continuar participando.
 
- ## FALTAS
+## FALTAS
 Se consideran faltas las siguientes acciones, que serán sancionadas por los jueces:
 Tardar más de 1 minuto en reanudar el partido después de haber solicitado tiempo.
 Acelerar o mover el robot antes de que el árbitro lo indique.
