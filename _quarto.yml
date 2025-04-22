@@ -3,8 +3,8 @@ project:
 
 book:
   title: "CrespiBot"
-  author: "Norah Jones"
-  date: "21/4/2025"
+  author: "Tec. Sup. Christopher Jara"
+  date: "2025-04-10"
   chapters:
     - index.qmd
     - intro.qmd
