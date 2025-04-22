@@ -1,5 +1,25 @@
-# Preface {.unnumbered}
+# Compromiso y Objetivo {.unnumbered}
 
-This is a Quarto book.
+## Queridos estudiantes,
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+El Concurso CrespiBot es una oportunidad única para demostrar sus habilidades y creatividad en el campo de la robótica. Participar en este evento no solo les permitirá representar a nuestra institución en concursos nacionales, sino también desarrollar competencias que serán esenciales para su futuro. La robótica educativa es una puerta hacia la innovación y el conocimiento, y su participación en estos eventos les abrirá nuevas oportunidades y experiencias.
+
+¡Comprométanse con el Concurso CrespiBot, el circuito de Robótica Educativa Regional y los concursos nacionales de robótica! Su esfuerzo y dedicación serán recompensados, y juntos, podemos alcanzar grandes logros y contribuir a la transformación social.
+
+¡Adelante, CrespiBots! ¡El futuro está en sus manos!
+
+La Unidad Educativa Carlos Crespi II, fiel a su misión de educar evangelizando y evangelizar educando, busca formar buenos cristianos y honrados ciudadanos mediante la excelencia humana, científica, tecnológica y cultural. En línea con su visión de ser protagonista en procesos de innovación educativa, científica y tecnológica, la institución organiza el Concurso CrespiBot. Este evento no solo busca identificar a los representantes institucionales para los concursos nacionales de robótica, sino también premiar a los estudiantes más destacados en diversas competencias de robótica amateur. El Concurso CrespiBot es una manifestación concreta de la misión y visión de la Unidad Educativa Carlos Crespi II, promoviendo la investigación, la creatividad y la formación integral de sus estudiantes.
+
+## Importancia de la Robótica Educativa
+
+La robótica educativa desempeña un papel fundamental en la formación académica y personal de los estudiantes de la Unidad Educativa Carlos Crespi II. A continuación, se detallan algunos de los beneficios más significativos:
+
+Desarrollo de Habilidades Técnicas: La robótica permite a los estudiantes adquirir conocimientos prácticos en áreas como la informática, electricidad y mecánica. Estos conocimientos son esenciales para su futuro profesional en un mundo cada vez más tecnológico.
+
+Fomento de la Creatividad y la Innovación: Al diseñar y construir robots, los estudiantes desarrollan su capacidad creativa y su habilidad para resolver problemas de manera innovadora. Esto les prepara para enfrentar desafíos complejos en su vida académica y profesional.
+
+Aprendizaje Interdisciplinario: La robótica integra diversas disciplinas, lo que facilita un aprendizaje más completo y enriquecedor. Los estudiantes aprenden a aplicar conceptos de matemáticas, física y programación en proyectos reales, lo que fortalece su comprensión y habilidades.
+
+Desarrollo Personal: La robótica educativa también contribuye al desarrollo personal de los estudiantes, fomentando valores como la perseverancia, el trabajo en equipo y la responsabilidad. Estos valores son fundamentales para su formación integral y su crecimiento como individuos.
+
+La participación en eventos de robótica, como el Concurso CrespiBot, es crucial para el desarrollo de habilidades técnicas y sociales en los estudiantes. Estos eventos les permiten interactuar con expertos y profesionales en el campo de la robótica educativa, abriendo puertas a futuras oportunidades académicas y laborales. Además, la competencia y colaboración en estos eventos fortalecen su capacidad para trabajar en equipo, resolver problemas y liderar proyectos.
