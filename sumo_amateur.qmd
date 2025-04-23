@@ -20,6 +20,10 @@ Las siguientes son especificaciones para todos los robots. El robot debe constru
 
 ![](images/Robot_sumo-100.jpg){fig-align="center"}
 
+| Motor Amarillo                     | Motor Azul                     |
+|------------------------------------|--------------------------------|
+| ![](images/motor_amarillo-100.jpg) | ![](images/motor_azul-100.jpg) |
+
 ## RESTRICCIONES DE ROBOTS
 
 Dispositivos de interferencia, como luces estroboscópicas, luz tipo flash, etc. Destinados a saturar los sensores IR de los oponentes, no están permitidos. No se permiten piezas que puedan romper o dañar el Dohyo. No utilice piezas que están destinadas a dañar el robot del oponente o su operador. Los empujones y golpes normales no se consideran intención de dañar. Dispositivos que pueden almacenar líquido, polvo, gas u otras sustancias para arrojar al oponente no están permitidos. No se permiten dispositivos con llamas. No se permiten dispositivos que arrojen cosas a tu oponente. No se permiten sustancias pegajosas para mejorar la tracción. Los neumáticos y otros componentes del robot en contacto con el Dohyo no deben poder levantar y sostener un papel A4 estándar (80 g/m2) durante más de cinco segundos. Los dispositivos para aumentar la fuerza descendente, como bombas de vacío e imanes, no están permitidos. Todos los bordes, incluidos, entre otros, la pala frontal, no deben estar lo suficientemente afilados como para rayar o dañar el ring, otros robots o jugadores.
@@ -34,7 +38,7 @@ El interior del Dohyo se define como la superficie de juego rodeada e incluyendo
 
 El Dohyo deberá ser de forma circular y de las dimensiones exactas. La línea del borde está marcada como un Dohyo circular blanco mate de un ancho apropiado para la clase dada en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular. Para todas las dimensiones dadas del Dohyo se aplica una tolerancia del 5%. Líneas de inicio (Shikiri-Sen) color café tendrán una longitud de 100 mm o, en su defecto, se puede utilizar otro elemento que simule las mismas que se deben retirar antes de iniciar el partido. La superficie del Dohyo debe ser lisa, pintada o de vinil de colores negro y blanco mate.
 
-![](images/caracteristicas del doyo-100.jpg){fig-align="center"}
+![](images/caracteristicas%20del%20doyo-100.jpg){fig-align="center"}
 
 ### Exterior de Dohyo
 

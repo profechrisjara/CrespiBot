@@ -4,7 +4,7 @@
 
 En esta categoría, se enfrentan dos equipos en una cancha de fútbol. Cada equipo consta de dos (2) robots que se desplazarán guiados por dos operadores a través de controles de comunicación inalámbrica. El partido de Robot Soccer consta de dos tiempos en los cuales los robots conducirán la pelota para anotar un gol en la cancha del equipo contrario. Una vez culminado el segundo tiempo, el jurado determinará al equipo ganador según el desarrollo de los equipos durante el partido.
 
-![](images/robot_soccer amateur_artesanal-100.jpg){fig-align="center"}
+![](images/robot_soccer%20amateur_artesanal-100.jpg){fig-align="center"}
 
 ## INDICACIONES GENERALES:
 
@@ -21,6 +21,10 @@ El diseño de cada robot es libre. El tipo de tracción del robot es libre: rued
 ## MATERIALES:
 
 El empleo de materiales en la estructura del robot y el número de motores es libre. El robot debe construirse con motores con caja de reducción amarilla o azul, sin modificaciones internas o externas. La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable. Ningún robot deberá alimentarse en forma externa a través de cables.
+
+| Motor Amarillo                     | Motor Azul                     |
+|------------------------------------|--------------------------------|
+| ![](images/motor_amarillo-100.jpg) | ![](images/motor_azul-100.jpg) |
 
 ## CONTROL:
 
