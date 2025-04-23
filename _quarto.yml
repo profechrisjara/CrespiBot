@@ -8,7 +8,7 @@ book:
   chapters:
     - index.qmd
     - soccer_amateur.qmd
-    - summary.qmd
+    - sumo_amateur.qmd
     - references.qmd
 
 bibliography: references.bib
