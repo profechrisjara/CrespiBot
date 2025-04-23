@@ -9,6 +9,7 @@ book:
     - index.qmd
     - soccer_amateur.qmd
     - sumo_amateur.qmd
+    - linea_amateur.qmd
     - references.qmd
 
 bibliography: references.bib
