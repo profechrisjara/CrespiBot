@@ -30,8 +30,6 @@ El interior del Dohyo se define como la superficie de juego rodeada e incluyendo
 
 El Dohyo deberá ser de forma circular y de las dimensiones exactas. La línea del borde está marcada como un Dohyo circular blanco mate de un ancho apropiado para la clase dada en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular. Para todas las dimensiones dadas del Dohyo se aplica una tolerancia del 5%. Líneas de inicio (Shikiri-Sen) color café tendrán una longitud de 100 mm o, en su defecto, se puede utilizar otro elemento que simule las mismas que se deben retirar antes de iniciar el partido. La superficie del Dohyo debe ser lisa, pintada o de vinil de colores negro y blanco mate.
 
-![](images/doyo_sumo_amateur.webp){fig-align="center"}
-
 ### Exterior de Dohyo
 Debe haber un espacio apropiado para cada clase de sumo fuera del borde exterior del ring. Este espacio puede ser de cualquier color excepto blanco ni retroreflectivo, y debe de ser material blando de cualquier forma siempre y cuando no se violen los conceptos básicos de estas reglas. Esta área, con el Dohyo en el medio, se denominará "área del Dohyo". Cualquier marca o parte de la plataforma del ring fuera de las dimensiones mínimas también se considerará en el área del ring.
 ## DINÁMICA DEL PARTIDO DE SUMO
