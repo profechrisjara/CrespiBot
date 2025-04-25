@@ -11,7 +11,7 @@ book:
     - soccer_amateur.qmd
     - sumo_amateur.qmd
     - linea_amateur.qmd
-    - premios_crespibot
+    - premios_crespibot.qmd
     - references.qmd
 
 bibliography: references.bib
