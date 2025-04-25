@@ -1,0 +1,18 @@
+# Inscripciones
+
+El gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:
+
+1)  Como motivación para usted, lea los premios a los que se hará acreedor(a).
+2)  Lea detenidamente las reglas del concurso, en la modalidad o modalidades en que usted desee inscribirse.
+3)  Tenga a la mano los nombres, apellidos y una foto digital tipo cédula de todos los integrantes de su equipo, pues tendrá que subirlo a la ficha de inscripción.
+4)  Imprima su ficha de inscripción para presentarla el jueves, durante la homologación de su robot.
+
+## LINK DE LA FICHA DE INSCRIPCIÓN
+
+https://tinyurl.com/InscripcionesCrespiBot
+
+## QR PARA LA INSCRIPCIÓN
+
+![](images/Eventos CrespiBot.png){fig-align="center"}
+
+Nosotros le deseamos mucha suerte.
