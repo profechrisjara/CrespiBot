@@ -8,7 +8,7 @@
 
 ¡Adelante, CrespiBots! ¡El futuro está en sus manos!
 
-[![](images/Eventos%20CrespiBot.png)](https://profechrisjara.github.io/Crespi)
+[![](images/Eventos%20CrespiBot.png)](https://profechrisjara.github.io/CrespiBot/Inscripcion.html)
 
 ## Beneficios del deporte "Robótica Educativa"
 
@@ -38,4 +38,4 @@ Y para poder disfrutar del evento lo invito a leer el reglamento oficial para es
 \
 Link de Inscripción
 
-[Inscribase aquí](https://profechrisjara.github.io/CrespiBot/) <https://profechrisjara.github.io/CrespiBot/>
+[Inscribase aquí](https://profechrisjara.github.io/CrespiBot/Inscripcion.html) <https://profechrisjara.github.io/CrespiBot/Inscripcion.html>

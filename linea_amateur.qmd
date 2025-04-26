@@ -24,7 +24,11 @@ El empleo de materiales en la estructura del robot y el número de motores es li
 
 ## LIMITACIONES
 
-El único sistema de comunicación permitido con el robot es el de encendido y apagado por vía inalámbrica o un activador manual. El robot debe comportarse de forma completamente autónoma durante todo el recorrido. El robot deberá estar preparado para trabajar bajo condiciones de luz variadas. Se permitirá realizar un cambio al hardware o al software en los robots por los competidores solo al término de la primera ronda. \## CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT. Las características de la pista se darán a conocer 5 días antes de la inauguración del evento a través de la página oficial del evento. En el inicio y el fin del recorrido estarán indicadas con líneas perpendiculares a la derecha con respecto de la línea de trayectoria, siguiendo el sentido del recorrido. Las características principales de la pista donde se realizará la competencia son las que se muestran a continuación: - La pista será de madera. - En la pista no habrá cruces de línea. La aproximación más cercana de la línea de curso a los bordes de la pista será de no menos de 15 cm, medidos desde el centro de la línea. No se garantiza una iluminación especial. Se recomienda a los participantes tener en cuenta cada aspecto de la pista para luego no tener ningún inconveniente; si resultase el caso de tener algún inconveniente, avisar a los respectivos jueces antes de la participación.
+El único sistema de comunicación permitido con el robot es el de encendido y apagado por vía inalámbrica o un activador manual. El robot debe comportarse de forma completamente autónoma durante todo el recorrido. El robot deberá estar preparado para trabajar bajo condiciones de luz variadas. Se permitirá realizar un cambio al hardware o al software en los robots por los competidores solo al término de la primera ronda. 
+
+## CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT. 
+
+Las características de la pista se darán a conocer 5 días antes de la inauguración del evento a través de la página oficial del evento. En el inicio y el fin del recorrido estarán indicadas con líneas perpendiculares a la derecha con respecto de la línea de trayectoria, siguiendo el sentido del recorrido. Las características principales de la pista donde se realizará la competencia son las que se muestran a continuación: - La pista será de madera. - En la pista no habrá cruces de línea. La aproximación más cercana de la línea de curso a los bordes de la pista será de no menos de 15 cm, medidos desde el centro de la línea. No se garantiza una iluminación especial. Se recomienda a los participantes tener en cuenta cada aspecto de la pista para luego no tener ningún inconveniente; si resultase el caso de tener algún inconveniente, avisar a los respectivos jueces antes de la participación.
 
 ## DESARROLLO DE LA COMPETENCIA.
 
@@ -52,4 +56,4 @@ De no contar con un mínimo de 3 robots o equipos participantes, la categoría s
 
 ## INSCRIBA SU SEGUIDOR DE LÍNEA AQUI
 
-[![](images/Eventos CrespiBot.png)](https://profechrisjara.github.io/CrespiBot/)
+[![](images/Eventos CrespiBot.png)](https://profechrisjara.github.io/CrespiBot/Inscripcion.html)
