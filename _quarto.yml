@@ -12,6 +12,7 @@ book:
     - sumo_amateur.qmd
     - linea_amateur.qmd
     - premios_crespibot.qmd
+    - llaves_crespibot.qmd
     - references.qmd
 
 bibliography: references.bib
