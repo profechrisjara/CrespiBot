@@ -34,7 +34,7 @@
     "href": "index.html#modalidades",
     "title": "CrespiBot",
     "section": "Modalidades",
-    "text": "Modalidades\nPor estas y muchas mas razones, la “Unidad Educativa Particular Carlos Crespi II”, lo invita a participar en alguna de las modalidades que este 2025 tendremos en nuestro evento:\n\nCarrera de Insectos Amateur.\nRobots Seguidores de Linea Amateur.\nRobots de Sumo Amateur 10 x 10\nCampeonato de Soccer Amateur 15 x 15\n\nY para poder disfrutar del evento lo invito a leer el reglamento oficial para este campeonato, Bienvenido!\n\nLink de Inscripción\nhttps://tinyurl.com/InscripcionesCrespiBot",
+    "text": "Modalidades\nPor estas y muchas mas razones, la “Unidad Educativa Particular Carlos Crespi II”, lo invita a participar en alguna de las modalidades que este 2025 tendremos en nuestro evento:\n\nCarrera de Insectos Amateur.\nRobots Seguidores de Linea Amateur.\nRobots de Sumo Amateur 10 x 10\nCampeonato de Soccer Amateur 15 x 15\n\nY para poder disfrutar del evento lo invito a leer el reglamento oficial para este campeonato, Bienvenido!\n\nLink de Inscripción\nInscribase aquí https://profechrisjara.github.io/Crespi",
     "crumbs": [
       "Compromiso y Objetivo"
     ]
@@ -44,7 +44,7 @@
     "href": "Inscripcion.html",
     "title": "1  Inscripciones",
     "section": "",
-    "text": "1.1 LINK DE LA FICHA DE INSCRIPCIÓN\nEl gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:\nhttps://tinyurl.com/InscripcionesCrespiBot",
+    "text": "1.1 LINK DE LA FICHA DE INSCRIPCIÓN\nEl gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:\nInscribase aquí https://profechrisjara.github.io/Crespi",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Inscripciones</span>"
     ]
@@ -215,6 +215,16 @@
     "title": "2  Reglamento del campeonato de soccer amateur",
     "section": "2.16 TRANSITORIOS:",
     "text": "2.16 TRANSITORIOS:\nDe no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento. El cronograma oficial se dará a conocer unos días antes de la competencia, el cual podrá variar en base a los imprevistos.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
+    ]
+  },
+  {
+    "objectID": "soccer_amateur.html#inscriba-su-robot-de-soccer-aquí",
+    "href": "soccer_amateur.html#inscriba-su-robot-de-soccer-aquí",
+    "title": "2  Reglamento del campeonato de soccer amateur",
+    "section": "2.17 INSCRIBA SU ROBOT DE SOCCER AQUÍ",
+    "text": "2.17 INSCRIBA SU ROBOT DE SOCCER AQUÍ",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
@@ -400,6 +410,16 @@
     ]
   },
   {
+    "objectID": "sumo_amateur.html#inscriba-su-robot-de-sumo-rc-aquí",
+    "href": "sumo_amateur.html#inscriba-su-robot-de-sumo-rc-aquí",
+    "title": "3  Reglamento del campeonato de sumo RC amateur",
+    "section": "3.19 INSCRIBA SU ROBOT DE SUMO RC AQUÍ",
+    "text": "3.19 INSCRIBA SU ROBOT DE SUMO RC AQUÍ",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
+    ]
+  },
+  {
     "objectID": "linea_amateur.html",
     "href": "linea_amateur.html",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
@@ -485,6 +505,16 @@
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
     "section": "4.9 TRANSITORIOS",
     "text": "4.9 TRANSITORIOS\nDe no contar con un mínimo de 3 robots o equipos participantes, la categoría será considerada únicamente como exhibición y solo se realizará la entrega de medallas. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces. Las llaves de cada categoría serán presentadas posterior al cierre de inscripciones. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
+    ]
+  },
+  {
+    "objectID": "linea_amateur.html#inscriba-su-seguidor-de-línea-aqui",
+    "href": "linea_amateur.html#inscriba-su-seguidor-de-línea-aqui",
+    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "4.10 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
+    "text": "4.10 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
