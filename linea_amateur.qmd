@@ -52,4 +52,4 @@ De no contar con un mínimo de 3 robots o equipos participantes, la categoría s
 
 ## INSCRIBA SU SEGUIDOR DE LÍNEA AQUI
 
-[![](images/Eventos CrespiBot.png)](https://profechrisjara.github.io/Crespi)
+[![](images/Eventos CrespiBot.png)](https://profechrisjara.github.io/CrespiBot/)

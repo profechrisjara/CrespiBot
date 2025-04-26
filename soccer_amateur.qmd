@@ -76,4 +76,4 @@ De no contar con un mínimo de 4 robots o equipos participantes, la categoría s
 
 ## INSCRIBA SU ROBOT DE SOCCER AQUÍ
 
-[![](images/Eventos CrespiBot.png){fig-align="center"}](https://profechrisjara.github.io/Crespi)
+[![](images/Eventos CrespiBot.png){fig-align="center"}](https://profechrisjara.github.io/CrespiBot/)
