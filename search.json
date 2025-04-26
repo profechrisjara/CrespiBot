@@ -34,7 +34,7 @@
     "href": "index.html#modalidades",
     "title": "CrespiBot",
     "section": "Modalidades",
-    "text": "Modalidades\nPor estas y muchas mas razones, la “Unidad Educativa Particular Carlos Crespi II”, lo invita a participar en alguna de las modalidades que este 2025 tendremos en nuestro evento:\n\nCarrera de Insectos Amateur.\nRobots Seguidores de Linea Amateur.\nRobots de Sumo Amateur 10 x 10\nCampeonato de Soccer Amateur 15 x 15\n\nY para poder disfrutar del evento lo invito a leer el reglamento oficial para este campeonato, Bienvenido!\n\nLink de Inscripción\nInscribase aquí https://profechrisjara.github.io/CrespiBot/",
+    "text": "Modalidades\nPor estas y muchas mas razones, la “Unidad Educativa Particular Carlos Crespi II”, lo invita a participar en alguna de las modalidades que este 2025 tendremos en nuestro evento:\n\nCarrera de Insectos Amateur.\nRobots Seguidores de Linea Amateur.\nRobots de Sumo Amateur 10 x 10\nCampeonato de Soccer Amateur 15 x 15\n\nY para poder disfrutar del evento lo invito a leer el reglamento oficial para este campeonato, Bienvenido!\n\nLink de Inscripción\nInscribase aquí https://profechrisjara.github.io/CrespiBot/Inscripcion.html",
     "crumbs": [
       "Compromiso y Objetivo"
     ]
@@ -44,7 +44,7 @@
     "href": "Inscripcion.html",
     "title": "1  Inscripciones",
     "section": "",
-    "text": "1.1 LINK DE LA FICHA DE INSCRIPCIÓN\nEl gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:\nInscribase aquí https://profechrisjara.github.io/CrespiBot/",
+    "text": "1.1 LINK DE LA FICHA DE INSCRIPCIÓN\nEl gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:\nInscribase aquí https://forms.gle/HyNvmF6C5YG3BR2T8",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Inscripciones</span>"
     ]
@@ -464,7 +464,17 @@
     "href": "linea_amateur.html#limitaciones",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
     "section": "4.5 LIMITACIONES",
-    "text": "4.5 LIMITACIONES\nEl único sistema de comunicación permitido con el robot es el de encendido y apagado por vía inalámbrica o un activador manual. El robot debe comportarse de forma completamente autónoma durante todo el recorrido. El robot deberá estar preparado para trabajar bajo condiciones de luz variadas. Se permitirá realizar un cambio al hardware o al software en los robots por los competidores solo al término de la primera ronda. ## CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT. Las características de la pista se darán a conocer 5 días antes de la inauguración del evento a través de la página oficial del evento. En el inicio y el fin del recorrido estarán indicadas con líneas perpendiculares a la derecha con respecto de la línea de trayectoria, siguiendo el sentido del recorrido. Las características principales de la pista donde se realizará la competencia son las que se muestran a continuación: - La pista será de madera. - En la pista no habrá cruces de línea. La aproximación más cercana de la línea de curso a los bordes de la pista será de no menos de 15 cm, medidos desde el centro de la línea. No se garantiza una iluminación especial. Se recomienda a los participantes tener en cuenta cada aspecto de la pista para luego no tener ningún inconveniente; si resultase el caso de tener algún inconveniente, avisar a los respectivos jueces antes de la participación.",
+    "text": "4.5 LIMITACIONES\nEl único sistema de comunicación permitido con el robot es el de encendido y apagado por vía inalámbrica o un activador manual. El robot debe comportarse de forma completamente autónoma durante todo el recorrido. El robot deberá estar preparado para trabajar bajo condiciones de luz variadas. Se permitirá realizar un cambio al hardware o al software en los robots por los competidores solo al término de la primera ronda.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
+    ]
+  },
+  {
+    "objectID": "linea_amateur.html#características-del-área-de-trabajo-del-robot.",
+    "href": "linea_amateur.html#características-del-área-de-trabajo-del-robot.",
+    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "4.6 CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT.",
+    "text": "4.6 CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT.\nLas características de la pista se darán a conocer 5 días antes de la inauguración del evento a través de la página oficial del evento. En el inicio y el fin del recorrido estarán indicadas con líneas perpendiculares a la derecha con respecto de la línea de trayectoria, siguiendo el sentido del recorrido. Las características principales de la pista donde se realizará la competencia son las que se muestran a continuación: - La pista será de madera. - En la pista no habrá cruces de línea. La aproximación más cercana de la línea de curso a los bordes de la pista será de no menos de 15 cm, medidos desde el centro de la línea. No se garantiza una iluminación especial. Se recomienda a los participantes tener en cuenta cada aspecto de la pista para luego no tener ningún inconveniente; si resultase el caso de tener algún inconveniente, avisar a los respectivos jueces antes de la participación.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
@@ -473,8 +483,8 @@
     "objectID": "linea_amateur.html#desarrollo-de-la-competencia.",
     "href": "linea_amateur.html#desarrollo-de-la-competencia.",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.6 DESARROLLO DE LA COMPETENCIA.",
-    "text": "4.6 DESARROLLO DE LA COMPETENCIA.\nTodos los seguidores de línea deberán tener sus baterías completamente cargadas antes de cada carrera; el tiempo de espera es de máximo 3 min para poder competir; si no, será descalificado inmediatamente.\nEl intento inicia en el momento en que el seguidor de línea cruce la línea de salida; en este momento se comenzará a tomar el tiempo de recorrido. El tiempo de recorrido será detenido cuando la parte delantera del robot toque la línea de meta; este tiempo será almacenado. Cada robot tendrá un tiempo máximo de 3 minutos para finalizar totalmente la pista. Así mismo, tendrá 2 oportunidades para lograr el objetivo; en caso de finalizar en las dos ocasiones la pista, se almacenará el menor tiempo realizado por el robot. El robot está obligado a permanecer dentro de la pista y seguir la trayectoria marcada durante toda la carrera. Si el vehículo se sale de la pista y vuelve de nuevo al mismo punto en la pista por sí mismo, puede continuar la carrera. Si el vehículo se sale de la pista completamente o permanece inmóvil durante 5 segundos, la carrera se dará por terminada inmediatamente. El operador del robot no podrá tocar al vehículo mientras este se encuentre haciendo la trayectoria; en caso de que esto suceda, el robot será descalificado. Solo podrá tocarlo cuando inicie o termine el recorrido. Si ninguno de los equipos puede completar la trayectoria, el ganador será determinado por la distancia recorrida en el menor tiempo.",
+    "section": "4.7 DESARROLLO DE LA COMPETENCIA.",
+    "text": "4.7 DESARROLLO DE LA COMPETENCIA.\nTodos los seguidores de línea deberán tener sus baterías completamente cargadas antes de cada carrera; el tiempo de espera es de máximo 3 min para poder competir; si no, será descalificado inmediatamente.\nEl intento inicia en el momento en que el seguidor de línea cruce la línea de salida; en este momento se comenzará a tomar el tiempo de recorrido. El tiempo de recorrido será detenido cuando la parte delantera del robot toque la línea de meta; este tiempo será almacenado. Cada robot tendrá un tiempo máximo de 3 minutos para finalizar totalmente la pista. Así mismo, tendrá 2 oportunidades para lograr el objetivo; en caso de finalizar en las dos ocasiones la pista, se almacenará el menor tiempo realizado por el robot. El robot está obligado a permanecer dentro de la pista y seguir la trayectoria marcada durante toda la carrera. Si el vehículo se sale de la pista y vuelve de nuevo al mismo punto en la pista por sí mismo, puede continuar la carrera. Si el vehículo se sale de la pista completamente o permanece inmóvil durante 5 segundos, la carrera se dará por terminada inmediatamente. El operador del robot no podrá tocar al vehículo mientras este se encuentre haciendo la trayectoria; en caso de que esto suceda, el robot será descalificado. Solo podrá tocarlo cuando inicie o termine el recorrido. Si ninguno de los equipos puede completar la trayectoria, el ganador será determinado por la distancia recorrida en el menor tiempo.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
@@ -483,8 +493,8 @@
     "objectID": "linea_amateur.html#es-opción-de-la-organización-realizar-la-competencia-en-tres-fases",
     "href": "linea_amateur.html#es-opción-de-la-organización-realizar-la-competencia-en-tres-fases",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.7 Es OPCIÓN de la organización realizar la competencia en tres fases:",
-    "text": "4.7 Es OPCIÓN de la organización realizar la competencia en tres fases:\n\n4.7.1 Primera fase:\nLa competencia se realizará primeramente de manera individual, es decir, un robot tendrá que realizar totalmente la trayectoria marcada; el tiempo mínimo de la mejor vuelta será almacenado. Todos los robots participantes ejecutarán esta acción; con ello se determinarán las posiciones para realizar las eliminatorias. Si es necesario, se eliminarán para esta primera fase a los robots con un tiempo mayor, tal que el número de participantes se reduzca a 5.\n\n\n4.7.2 Segunda fase:\nla competencia será considerada el mejor tiempo entre los finalistas. En caso de tener alguna duda sobre esta normativa, comunicarse con el comité organizador. “En caso de haber muchos competidores, se hará un análisis para determinar si se va a realizar la competencia en estas dos fases; caso contrario, se dará aviso en la página oficial del torneo cinco días antes del torneo”.",
+    "section": "4.8 Es OPCIÓN de la organización realizar la competencia en tres fases:",
+    "text": "4.8 Es OPCIÓN de la organización realizar la competencia en tres fases:\n\n4.8.1 Primera fase:\nLa competencia se realizará primeramente de manera individual, es decir, un robot tendrá que realizar totalmente la trayectoria marcada; el tiempo mínimo de la mejor vuelta será almacenado. Todos los robots participantes ejecutarán esta acción; con ello se determinarán las posiciones para realizar las eliminatorias. Si es necesario, se eliminarán para esta primera fase a los robots con un tiempo mayor, tal que el número de participantes se reduzca a 5.\n\n\n4.8.2 Segunda fase:\nla competencia será considerada el mejor tiempo entre los finalistas. En caso de tener alguna duda sobre esta normativa, comunicarse con el comité organizador. “En caso de haber muchos competidores, se hará un análisis para determinar si se va a realizar la competencia en estas dos fases; caso contrario, se dará aviso en la página oficial del torneo cinco días antes del torneo”.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
@@ -493,8 +503,8 @@
     "objectID": "linea_amateur.html#jueces",
     "href": "linea_amateur.html#jueces",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.8 JUECES",
-    "text": "4.8 JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas por el comité organizador en esta categoría sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia.",
+    "section": "4.9 JUECES",
+    "text": "4.9 JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas por el comité organizador en esta categoría sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
@@ -503,8 +513,8 @@
     "objectID": "linea_amateur.html#transitorios",
     "href": "linea_amateur.html#transitorios",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.9 TRANSITORIOS",
-    "text": "4.9 TRANSITORIOS\nDe no contar con un mínimo de 3 robots o equipos participantes, la categoría será considerada únicamente como exhibición y solo se realizará la entrega de medallas. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces. Las llaves de cada categoría serán presentadas posterior al cierre de inscripciones. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento.",
+    "section": "4.10 TRANSITORIOS",
+    "text": "4.10 TRANSITORIOS\nDe no contar con un mínimo de 3 robots o equipos participantes, la categoría será considerada únicamente como exhibición y solo se realizará la entrega de medallas. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces. Las llaves de cada categoría serán presentadas posterior al cierre de inscripciones. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
@@ -513,8 +523,8 @@
     "objectID": "linea_amateur.html#inscriba-su-seguidor-de-línea-aqui",
     "href": "linea_amateur.html#inscriba-su-seguidor-de-línea-aqui",
     "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.10 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
-    "text": "4.10 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
+    "section": "4.11 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
+    "text": "4.11 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
