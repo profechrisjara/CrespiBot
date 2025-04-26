@@ -73,3 +73,7 @@ La figura del juez o los jueces es importante en la competencia; él será el en
 ## TRANSITORIOS:
 
 De no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento. El cronograma oficial se dará a conocer unos días antes de la competencia, el cual podrá variar en base a los imprevistos.
+
+## INSCRIBA SU ROBOT DE SOCCER AQUÍ
+
+[![](images/Eventos CrespiBot.png){fig-align="center"}](https://profechrisjara.github.io/Crespi)

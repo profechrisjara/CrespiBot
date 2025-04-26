@@ -35,9 +35,11 @@ El intento inicia en el momento en que el seguidor de línea cruce la línea de 
 ## Es OPCIÓN de la organización realizar la competencia en tres fases:
 
 ### Primera fase:
-La competencia se realizará primeramente de manera individual, es decir, un robot tendrá que realizar totalmente la trayectoria marcada; el tiempo mínimo de la mejor vuelta será almacenado. Todos los robots participantes ejecutarán esta acción; con ello se determinarán las posiciones para realizar las eliminatorias. Si es necesario, se eliminarán para esta primera fase a los robots con un tiempo mayor, tal que el número de participantes se reduzca a 5. 
 
-### Segunda fase: 
+La competencia se realizará primeramente de manera individual, es decir, un robot tendrá que realizar totalmente la trayectoria marcada; el tiempo mínimo de la mejor vuelta será almacenado. Todos los robots participantes ejecutarán esta acción; con ello se determinarán las posiciones para realizar las eliminatorias. Si es necesario, se eliminarán para esta primera fase a los robots con un tiempo mayor, tal que el número de participantes se reduzca a 5.
+
+### Segunda fase:
+
 la competencia será considerada el mejor tiempo entre los finalistas. En caso de tener alguna duda sobre esta normativa, comunicarse con el comité organizador. “En caso de haber muchos competidores, se hará un análisis para determinar si se va a realizar la competencia en estas dos fases; caso contrario, se dará aviso en la página oficial del torneo cinco días antes del torneo”.
 
 ## JUECES
@@ -47,3 +49,7 @@ La figura del juez o los jueces es importante en la competencia; él será el en
 ## TRANSITORIOS
 
 De no contar con un mínimo de 3 robots o equipos participantes, la categoría será considerada únicamente como exhibición y solo se realizará la entrega de medallas. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces. Las llaves de cada categoría serán presentadas posterior al cierre de inscripciones. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento.
+
+## INSCRIBA SU SEGUIDOR DE LÍNEA AQUI
+
+[![](images/Eventos CrespiBot.png)](https://profechrisjara.github.io/Crespi)

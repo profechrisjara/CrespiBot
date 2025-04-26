@@ -9,10 +9,10 @@ El gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embar
 
 ## LINK DE LA FICHA DE INSCRIPCIÓN
 
-https://tinyurl.com/InscripcionesCrespiBot
+[Inscribase aquí](https://profechrisjara.github.io/Crespi) <https://profechrisjara.github.io/Crespi>
 
 ## QR PARA LA INSCRIPCIÓN
 
-![](images/Eventos CrespiBot.png){fig-align="center"}
+[![](images/Eventos%20CrespiBot.png){fig-align="center"}](https://profechrisjara.github.io/Crespi)
 
 Nosotros le deseamos mucha suerte.
