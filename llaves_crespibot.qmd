@@ -6,14 +6,21 @@ Aquí se podra observar las llaves y los avances en vivo.
 
 <iframe src="https://challonge.com/es/CrespiBot2025SoccerAmateur/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
+---
+
 ## SUMO RF AMATEUR
 
 <iframe src="https://challonge.com/es/CrespiBot2025SumoAmateur/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
+---
+
 ## SEGUIDOR DE LINEA AMATEUR
+
+<iframe src="https://challonge.com/es/CrespiBot2025SeguidorLinea/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 ---
 
 ## DESTREZA INSECTO AMATEUR
+<iframe src="https://challonge.com/es/CrespiBot2025InsectosAmateur/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
 
 ---
