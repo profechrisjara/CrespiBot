@@ -42,9 +42,9 @@
   {
     "objectID": "Inscripcion.html",
     "href": "Inscripcion.html",
-    "title": "1  Inscripciones",
+    "title": "Inscripciones",
     "section": "",
-    "text": "1.1 LINK DE LA FICHA DE INSCRIPCIÓN\nEl gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:\nINSCRIBASE AQUÍ https://forms.gle/Q1cCYKU6HzV8S6V8A",
+    "text": "LINK DE LA FICHA DE INSCRIPCIÓN\nEl gran día ha llegado; hoy formalmente va a ser parte del CrespiBot, sin embargo, quisiera proporcionarle algunas recomendaciones:\nINSCRIBASE AQUÍ https://forms.gle/Q1cCYKU6HzV8S6V8A",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Inscripciones</span>"
     ]
@@ -52,9 +52,9 @@
   {
     "objectID": "Inscripcion.html#qr-para-la-inscripción",
     "href": "Inscripcion.html#qr-para-la-inscripción",
-    "title": "1  Inscripciones",
-    "section": "1.2 QR PARA LA INSCRIPCIÓN",
-    "text": "1.2 QR PARA LA INSCRIPCIÓN\n\nNosotros le deseamos mucha suerte.",
+    "title": "Inscripciones",
+    "section": "QR PARA LA INSCRIPCIÓN",
+    "text": "QR PARA LA INSCRIPCIÓN\n\nNosotros le deseamos mucha suerte.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Inscripciones</span>"
     ]
@@ -62,9 +62,9 @@
   {
     "objectID": "Inscripcion.html#requisito-indispensable",
     "href": "Inscripcion.html#requisito-indispensable",
-    "title": "1  Inscripciones",
-    "section": "1.3 REQUISITO INDISPENSABLE",
-    "text": "1.3 REQUISITO INDISPENSABLE\nLe solicitamos unirse al grupo ed Whatsapp de robótica del Crespi, en donde compartiremos información muy importante para este y varos eventos en los que participaremos.\nÚNASE AL GRUPO DE WHATSAPP AQUÍ",
+    "title": "Inscripciones",
+    "section": "REQUISITO INDISPENSABLE",
+    "text": "REQUISITO INDISPENSABLE\nLe solicitamos unirse al grupo ed Whatsapp de robótica del Crespi, en donde compartiremos información muy importante para este y varos eventos en los que participaremos.\nÚNASE AL GRUPO DE WHATSAPP AQUÍ",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Inscripciones</span>"
     ]
@@ -72,479 +72,526 @@
   {
     "objectID": "soccer_amateur.html",
     "href": "soccer_amateur.html",
-    "title": "2  Reglamento del campeonato de soccer amateur",
+    "title": "Reglamento del campeonato de soccer amateur",
     "section": "",
-    "text": "2.1 DESCRIPCIÓN GENERAL\nEn esta categoría, se enfrentan dos equipos en una cancha de fútbol. Cada equipo consta de dos (2) robots que se desplazarán guiados por dos operadores a través de controles de comunicación inalámbrica. El partido de Robot Soccer consta de dos tiempos en los cuales los robots conducirán la pelota para anotar un gol en la cancha del equipo contrario. Una vez culminado el segundo tiempo, el jurado determinará al equipo ganador según el desarrollo de los equipos durante el partido.",
+    "text": "DESCRIPCIÓN GENERAL\nEn esta categoría, se enfrentan dos equipos en una cancha de fútbol. Cada equipo consta de dos (2) robots que se desplazarán guiados por dos operadores a través de controles de comunicación inalámbrica. El partido de Robot Soccer consta de dos tiempos en los cuales los robots conducirán la pelota para anotar un gol en la cancha del equipo contrario. Una vez culminado el segundo tiempo, el jurado determinará al equipo ganador según el desarrollo de los equipos durante el partido.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#indicaciones-generales",
     "href": "soccer_amateur.html#indicaciones-generales",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.2 INDICACIONES GENERALES:",
-    "text": "2.2 INDICACIONES GENERALES:\nEn esta categoría se considerará como edad máxima 18 años. La única persona que puede dirigirse al juez será el capitán del equipo. No se podrá utilizar materiales externos que ensucien la pista, ya que en algunos casos favorece a un equipo, pero puede perjudicar a los demás. En caso de empate, se decidirá la victoria por penales. En caso de dos faltas, se otorgará un penal al equipo contrario. La retención voluntaria del balón utilizada para pasar tiempo se considera falta. Si el mecanismo de pateo ocasiona cualquier tipo de daño (revisado por el juez), ese equipo automáticamente perderá el partido. Se considera gol cuando el balón cruza el 100% de la línea de meta (arco); puede ser por arrastre o disparo del mecanismo de pateo.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "INDICACIONES GENERALES:",
+    "text": "INDICACIONES GENERALES:\nEn esta categoría se considerará como edad máxima 18 años. La única persona que puede dirigirse al juez será el capitán del equipo. No se podrá utilizar materiales externos que ensucien la pista, ya que en algunos casos favorece a un equipo, pero puede perjudicar a los demás. En caso de empate, se decidirá la victoria por penales. En caso de dos faltas, se otorgará un penal al equipo contrario. La retención voluntaria del balón utilizada para pasar tiempo se considera falta. Si el mecanismo de pateo ocasiona cualquier tipo de daño (revisado por el juez), ese equipo automáticamente perderá el partido. Se considera gol cuando el balón cruza el 100% de la línea de meta (arco); puede ser por arrastre o disparo del mecanismo de pateo.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#dimensiones-y-características-de-los-robots",
     "href": "soccer_amateur.html#dimensiones-y-características-de-los-robots",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.3 DIMENSIONES Y CARACTERÍSTICAS DE LOS ROBOTS",
-    "text": "2.3 DIMENSIONES Y CARACTERÍSTICAS DE LOS ROBOTS\nDeberán tener un máximo de 15x15 centímetros (largo y ancho). No hay restricción con respecto a la altura. La masa del robot es de máximo 500 gr. Incluyendo todos sus componentes.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "DIMENSIONES Y CARACTERÍSTICAS DE LOS ROBOTS",
+    "text": "DIMENSIONES Y CARACTERÍSTICAS DE LOS ROBOTS\nDeberán tener un máximo de 15x15 centímetros (largo y ancho). No hay restricción con respecto a la altura. La masa del robot es de máximo 500 gr. Incluyendo todos sus componentes.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#diseño",
     "href": "soccer_amateur.html#diseño",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.4 DISEÑO:",
-    "text": "2.4 DISEÑO:\nEl diseño de cada robot es libre. El tipo de tracción del robot es libre: ruedas, banda tipo oruga, patas articuladas, tipo gusano, etc. El orificio para manejo de pelota debe ser máximo de 3 cm. Se permitirá el uso de un mecanismo de pateo siempre y cuando no supere las medidas máximas en estado activo, y no ocasione retención del balón.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "DISEÑO:",
+    "text": "DISEÑO:\nEl diseño de cada robot es libre. El tipo de tracción del robot es libre: ruedas, banda tipo oruga, patas articuladas, tipo gusano, etc. El orificio para manejo de pelota debe ser máximo de 3 cm. Se permitirá el uso de un mecanismo de pateo siempre y cuando no supere las medidas máximas en estado activo, y no ocasione retención del balón.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#materiales",
     "href": "soccer_amateur.html#materiales",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.5 MATERIALES:",
-    "text": "2.5 MATERIALES:\nEl empleo de materiales en la estructura del robot y el número de motores es libre. El robot debe construirse con motores con caja de reducción amarilla o azul, sin modificaciones internas o externas. La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable. Ningún robot deberá alimentarse en forma externa a través de cables.\n\n\n\nMotor Amarillo\nMotor Azul",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "MATERIALES:",
+    "text": "MATERIALES:\nEl empleo de materiales en la estructura del robot y el número de motores es libre. El robot debe construirse con motores con caja de reducción amarilla o azul, sin modificaciones internas o externas. La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable. Ningún robot deberá alimentarse en forma externa a través de cables.\n\n\n\nMotor Amarillo\nMotor Azul",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#control",
     "href": "soccer_amateur.html#control",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.6 CONTROL:",
-    "text": "2.6 CONTROL:\nSe utilizará cualquier tipo de comunicación inalámbrica.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "CONTROL:",
+    "text": "CONTROL:\nSe utilizará cualquier tipo de comunicación inalámbrica.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#balón",
     "href": "soccer_amateur.html#balón",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.7 BALÓN",
-    "text": "2.7 BALÓN\nDeberá ser una pelota de golf estándar: 46 g de peso aproximadamente. 43 mm de diámetro aproximadamente. Si el balón se vuelve defectuoso durante el encuentro, se procederá a detener el encuentro para reemplazar el balón y se continuará en la misma posición en la que se detuvo el encuentro. El balón se reemplazará únicamente con la autorización del árbitro.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "BALÓN",
+    "text": "BALÓN\nDeberá ser una pelota de golf estándar: 46 g de peso aproximadamente. 43 mm de diámetro aproximadamente. Si el balón se vuelve defectuoso durante el encuentro, se procederá a detener el encuentro para reemplazar el balón y se continuará en la misma posición en la que se detuvo el encuentro. El balón se reemplazará únicamente con la autorización del árbitro.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#cancha",
     "href": "soccer_amateur.html#cancha",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.8 CANCHA",
-    "text": "2.8 CANCHA\nLas dimensiones de la cancha se publicarán en la página oficial del evento.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "CANCHA",
+    "text": "CANCHA\nLas dimensiones de la cancha se publicarán en la página oficial del evento.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#la-competencia.-rol-de-encuentros",
     "href": "soccer_amateur.html#la-competencia.-rol-de-encuentros",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.9 LA COMPETENCIA. ROL DE ENCUENTROS",
-    "text": "2.9 LA COMPETENCIA. ROL DE ENCUENTROS\nSe determinarán los turnos del partido por medio de un sorteo, el mismo que se realizará en presencia de los jueces del evento y deberá ser acatado a cabalidad. Los equipos se enfrentarán en un partido de dos (2) tiempos de dos (2) minutos cada uno, con un tiempo intermedio de un (1) minuto.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "LA COMPETENCIA. ROL DE ENCUENTROS",
+    "text": "LA COMPETENCIA. ROL DE ENCUENTROS\nSe determinarán los turnos del partido por medio de un sorteo, el mismo que se realizará en presencia de los jueces del evento y deberá ser acatado a cabalidad. Los equipos se enfrentarán en un partido de dos (2) tiempos de dos (2) minutos cada uno, con un tiempo intermedio de un (1) minuto.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#rutina-de-cada-partido",
     "href": "soccer_amateur.html#rutina-de-cada-partido",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.10 RUTINA DE CADA PARTIDO",
-    "text": "2.10 RUTINA DE CADA PARTIDO\nSe designará al equipo que empieza el juego por medio de un sorteo realizado por el juez previo al encuentro. Los operadores de los robots participantes entrarán a la zona de juego y ubicarán a sus respectivos robots en la posición de inicio según corresponda. Los operadores del robot se situarán detrás del arco correspondiente a su equipo.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "RUTINA DE CADA PARTIDO",
+    "text": "RUTINA DE CADA PARTIDO\nSe designará al equipo que empieza el juego por medio de un sorteo realizado por el juez previo al encuentro. Los operadores de los robots participantes entrarán a la zona de juego y ubicarán a sus respectivos robots en la posición de inicio según corresponda. Los operadores del robot se situarán detrás del arco correspondiente a su equipo.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#interrupción-y-reanudación-del-partido",
     "href": "soccer_amateur.html#interrupción-y-reanudación-del-partido",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.11 INTERRUPCIÓN Y REANUDACIÓN DEL PARTIDO",
-    "text": "2.11 INTERRUPCIÓN Y REANUDACIÓN DEL PARTIDO\nEl partido se interrumpirá a petición de los jueces cuando: Si uno o ambos robots presentan defectos, el operador podrá solicitar tiempo (1 minuto y solo 1 vez por cada tiempo) para repararlo. Se podrá realizar cambios de batería al finalizar cada encuentro, considerando que no afecte dimensiones ni peso. Cuando el partido haya sido interrumpido, se volverá a empezar desde la posición inicial. Los jueces podrán detener el partido siempre que lo consideren necesario para deliberar o permitir la entrada de los operadores a la zona del partido. La última decisión siempre la tendrán los jueces y será inapelable. Cuando alguno de los robots haya sufrido algún daño provocado por el equipo contrario o por otras causas, que le impida continuar participando.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "INTERRUPCIÓN Y REANUDACIÓN DEL PARTIDO",
+    "text": "INTERRUPCIÓN Y REANUDACIÓN DEL PARTIDO\nEl partido se interrumpirá a petición de los jueces cuando: Si uno o ambos robots presentan defectos, el operador podrá solicitar tiempo (1 minuto y solo 1 vez por cada tiempo) para repararlo. Se podrá realizar cambios de batería al finalizar cada encuentro, considerando que no afecte dimensiones ni peso. Cuando el partido haya sido interrumpido, se volverá a empezar desde la posición inicial. Los jueces podrán detener el partido siempre que lo consideren necesario para deliberar o permitir la entrada de los operadores a la zona del partido. La última decisión siempre la tendrán los jueces y será inapelable. Cuando alguno de los robots haya sufrido algún daño provocado por el equipo contrario o por otras causas, que le impida continuar participando.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#faltas",
     "href": "soccer_amateur.html#faltas",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.12 FALTAS",
-    "text": "2.12 FALTAS\nSe consideran faltas las siguientes acciones, que serán sancionadas por los jueces: Tardar más de 1 minuto en reanudar el partido después de haber solicitado tiempo. Acelerar o mover el robot antes de que el árbitro lo indique. Empujar al robot del equipo contrario cuando el balón esté a una distancia mayor a 10 cm del afectado.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "FALTAS",
+    "text": "FALTAS\nSe consideran faltas las siguientes acciones, que serán sancionadas por los jueces: Tardar más de 1 minuto en reanudar el partido después de haber solicitado tiempo. Acelerar o mover el robot antes de que el árbitro lo indique. Empujar al robot del equipo contrario cuando el balón esté a una distancia mayor a 10 cm del afectado.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#descalificación-del-encuentro",
     "href": "soccer_amateur.html#descalificación-del-encuentro",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.13 DESCALIFICACIÓN DEL ENCUENTRO",
-    "text": "2.13 DESCALIFICACIÓN DEL ENCUENTRO\nSe considerarán como descalificación (perdiendo automáticamente el partido) las siguientes acciones: Causar desperfectos de forma deliberada al oponente. Agredir verbalmente al juez o a los miembros del equipo oponente. El uso de dispositivos inflamables.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "DESCALIFICACIÓN DEL ENCUENTRO",
+    "text": "DESCALIFICACIÓN DEL ENCUENTRO\nSe considerarán como descalificación (perdiendo automáticamente el partido) las siguientes acciones: Causar desperfectos de forma deliberada al oponente. Agredir verbalmente al juez o a los miembros del equipo oponente. El uso de dispositivos inflamables.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#el-incumplimiento-de-cualquiera-de-las-disposiciones-del-reglamento.",
     "href": "soccer_amateur.html#el-incumplimiento-de-cualquiera-de-las-disposiciones-del-reglamento.",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.14 EL INCUMPLIMIENTO DE CUALQUIERA DE LAS DISPOSICIONES DEL REGLAMENTO.",
-    "text": "2.14 EL INCUMPLIMIENTO DE CUALQUIERA DE LAS DISPOSICIONES DEL REGLAMENTO.\nDESCALIFICACIÓN DE LA COMPETENCIA En casos extremos, los jueces se reservan el derecho a expulsar de la competición a quienes se crean merecedores de dicha sanción.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "EL INCUMPLIMIENTO DE CUALQUIERA DE LAS DISPOSICIONES DEL REGLAMENTO.",
+    "text": "EL INCUMPLIMIENTO DE CUALQUIERA DE LAS DISPOSICIONES DEL REGLAMENTO.\nDESCALIFICACIÓN DE LA COMPETENCIA En casos extremos, los jueces se reservan el derecho a expulsar de la competición a quienes se crean merecedores de dicha sanción.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#jueces",
     "href": "soccer_amateur.html#jueces",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.15 JUECES",
-    "text": "2.15 JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia. En caso de duda en la aplicación de las normas, el juez se regirá por el reglamento establecido haciéndolo cumplir.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "JUECES",
+    "text": "JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia. En caso de duda en la aplicación de las normas, el juez se regirá por el reglamento establecido haciéndolo cumplir.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#transitorios",
     "href": "soccer_amateur.html#transitorios",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.16 TRANSITORIOS:",
-    "text": "2.16 TRANSITORIOS:\nDe no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento. El cronograma oficial se dará a conocer unos días antes de la competencia, el cual podrá variar en base a los imprevistos.",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "TRANSITORIOS:",
+    "text": "TRANSITORIOS:\nDe no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento. El cronograma oficial se dará a conocer unos días antes de la competencia, el cual podrá variar en base a los imprevistos.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "soccer_amateur.html#inscriba-su-robot-de-soccer-aquí",
     "href": "soccer_amateur.html#inscriba-su-robot-de-soccer-aquí",
-    "title": "2  Reglamento del campeonato de soccer amateur",
-    "section": "2.17 INSCRIBA SU ROBOT DE SOCCER AQUÍ",
-    "text": "2.17 INSCRIBA SU ROBOT DE SOCCER AQUÍ",
+    "title": "Reglamento del campeonato de soccer amateur",
+    "section": "INSCRIBA SU ROBOT DE SOCCER AQUÍ",
+    "text": "INSCRIBA SU ROBOT DE SOCCER AQUÍ",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Reglamento del campeonato de soccer amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html",
     "href": "sumo_amateur.html",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
+    "title": "Reglamento del campeonato de sumo RC amateur",
     "section": "",
-    "text": "3.1 MUY IMPORTANTE\nDe la misma manera que en las artes marciales japonesas tradicionales, los robots intentan empujar al competidor fuera del dohyō.\nEl uso de activadores para todas las categorías autónomas es obligatorio; el modelo de receptor a utilizar será el de RobotChallenge Rumania o similares, como es de la marca JA-BOTS, esto con el fin de evitar interferencias al momento de realizar la activación de los robots.",
+    "text": "MUY IMPORTANTE\nDe la misma manera que en las artes marciales japonesas tradicionales, los robots intentan empujar al competidor fuera del dohyō.\nEl uso de activadores para todas las categorías autónomas es obligatorio; el modelo de receptor a utilizar será el de RobotChallenge Rumania o similares, como es de la marca JA-BOTS, esto con el fin de evitar interferencias al momento de realizar la activación de los robots.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#definición-del-combate-de-sumo",
     "href": "sumo_amateur.html#definición-del-combate-de-sumo",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.2 DEFINICIÓN DEL COMBATE DE SUMO",
-    "text": "3.2 DEFINICIÓN DEL COMBATE DE SUMO\nEquipo conformado por 2 integrantes. Un partido se pelea entre dos equipos; cada equipo tiene uno o más contendientes. Únicamente 2 miembros del equipo pueden encontrarse en el área de combate cumpliendo función de Operador - Asistente, siendo el Operador el único que controle al robot. Otros miembros del equipo (apoyo) deben mirar desde la audiencia. De acuerdo con las reglas del juego (en lo sucesivo, “estas reglas”), cada equipo compite en un Dohyo (Dohyo de sumo) con un robot que ellos mismos han adquirido, modificado o construido según las especificaciones de los “Requisitos para los robots”. El partido comienza a la orden del juez y continúa hasta que un concursante gana dos puntos Yuko. El juez determina al ganador del partido.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "DEFINICIÓN DEL COMBATE DE SUMO",
+    "text": "DEFINICIÓN DEL COMBATE DE SUMO\nEquipo conformado por 2 integrantes. Un partido se pelea entre dos equipos; cada equipo tiene uno o más contendientes. Únicamente 2 miembros del equipo pueden encontrarse en el área de combate cumpliendo función de Operador - Asistente, siendo el Operador el único que controle al robot. Otros miembros del equipo (apoyo) deben mirar desde la audiencia. De acuerdo con las reglas del juego (en lo sucesivo, “estas reglas”), cada equipo compite en un Dohyo (Dohyo de sumo) con un robot que ellos mismos han adquirido, modificado o construido según las especificaciones de los “Requisitos para los robots”. El partido comienza a la orden del juez y continúa hasta que un concursante gana dos puntos Yuko. El juez determina al ganador del partido.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#requisitos-para-los-robots-de-la-categoría-amateur",
     "href": "sumo_amateur.html#requisitos-para-los-robots-de-la-categoría-amateur",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.3 REQUISITOS PARA LOS ROBOTS DE LA CATEGORÍA AMATEUR",
-    "text": "3.3 REQUISITOS PARA LOS ROBOTS DE LA CATEGORÍA AMATEUR\n\n3.3.1 Especificaciones generales del robot\nLas siguientes son especificaciones para todos los robots. El robot debe construirse con motores con caja amarilla o azul plástica sin modificaciones internas o externas; se acepta el uso de pesos metálicos, más no elementos que tengan filo que puedan atentar contra la seguridad de los participantes (cuchillas o navajas). La medida del robot para sumo en la categoría amateur es de 10 cm x 10 cm, sin un límite de altura, y su peso no debe ser superior a los 500 gr. El robot debe caber dentro de un cubo cuadrado de las dimensiones apropiadas para cada clase, asumiendo el 1% de tolerancia de la medida. El robot puede expandirse en tamaño después de que comience un encuentro, pero no debe separarse físicamente en pedazos y debe permanecer como un solo robot centralizado. Los pies del robot no deben ampliarse durante el encuentro. Los robots que violen estas restricciones serán descalificados. Los tornillos, tuercas y otras partes del robot con una masa total de menos de 5 gr. que se caigan del cuerpo de un robot no deben causar la pérdida del round. Los robots que usan navajas o cuchillas finas las cuales puedan romperse durante un encuentro, solo en el caso de que la cuchilla se rompe durante el encuentro, el participante dispondrá de 3 min para cambiar o retirar la cuchilla; si la cuchilla se encuentra rota al inicio del round, el robot pierde inmediatamente ese encuentro. Todos los robots deben ser autónomos; puede emplearse cualquier mecanismo de control, siempre que todos los componentes estén contenidos dentro del robot y el mecanismo no interactúe con un sistema de control externo (humano, máquina u otro). El robot obtiene un número para fines de registro. Muestre este número en su robot para permitir que los espectadores y oficiales identifiquen su robot. Este número se colocará donde el participante considere pertinente.\n\n\n\n\n\n\n\n\nMotor Amarillo\nMotor Azul",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "REQUISITOS PARA LOS ROBOTS DE LA CATEGORÍA AMATEUR",
+    "text": "REQUISITOS PARA LOS ROBOTS DE LA CATEGORÍA AMATEUR\n\nEspecificaciones generales del robot\nLas siguientes son especificaciones para todos los robots. El robot debe construirse con motores con caja amarilla o azul plástica sin modificaciones internas o externas; se acepta el uso de pesos metálicos, más no elementos que tengan filo que puedan atentar contra la seguridad de los participantes (cuchillas o navajas). La medida del robot para sumo en la categoría amateur es de 10 cm x 10 cm, sin un límite de altura, y su peso no debe ser superior a los 500 gr. El robot debe caber dentro de un cubo cuadrado de las dimensiones apropiadas para cada clase, asumiendo el 1% de tolerancia de la medida. El robot puede expandirse en tamaño después de que comience un encuentro, pero no debe separarse físicamente en pedazos y debe permanecer como un solo robot centralizado. Los pies del robot no deben ampliarse durante el encuentro. Los robots que violen estas restricciones serán descalificados. Los tornillos, tuercas y otras partes del robot con una masa total de menos de 5 gr. que se caigan del cuerpo de un robot no deben causar la pérdida del round. Los robots que usan navajas o cuchillas finas las cuales puedan romperse durante un encuentro, solo en el caso de que la cuchilla se rompe durante el encuentro, el participante dispondrá de 3 min para cambiar o retirar la cuchilla; si la cuchilla se encuentra rota al inicio del round, el robot pierde inmediatamente ese encuentro. Todos los robots deben ser autónomos; puede emplearse cualquier mecanismo de control, siempre que todos los componentes estén contenidos dentro del robot y el mecanismo no interactúe con un sistema de control externo (humano, máquina u otro). El robot obtiene un número para fines de registro. Muestre este número en su robot para permitir que los espectadores y oficiales identifiquen su robot. Este número se colocará donde el participante considere pertinente.\n\n\n\n\n\n\n\n\nMotor Amarillo\nMotor Azul",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#restricciones-de-robots",
     "href": "sumo_amateur.html#restricciones-de-robots",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.4 RESTRICCIONES DE ROBOTS",
-    "text": "3.4 RESTRICCIONES DE ROBOTS\nDispositivos de interferencia, como luces estroboscópicas, luz tipo flash, etc. Destinados a saturar los sensores IR de los oponentes, no están permitidos. No se permiten piezas que puedan romper o dañar el Dohyo. No utilice piezas que están destinadas a dañar el robot del oponente o su operador. Los empujones y golpes normales no se consideran intención de dañar. Dispositivos que pueden almacenar líquido, polvo, gas u otras sustancias para arrojar al oponente no están permitidos. No se permiten dispositivos con llamas. No se permiten dispositivos que arrojen cosas a tu oponente. No se permiten sustancias pegajosas para mejorar la tracción. Los neumáticos y otros componentes del robot en contacto con el Dohyo no deben poder levantar y sostener un papel A4 estándar (80 g/m2) durante más de cinco segundos. Los dispositivos para aumentar la fuerza descendente, como bombas de vacío e imanes, no están permitidos. Todos los bordes, incluidos, entre otros, la pala frontal, no deben estar lo suficientemente afilados como para rayar o dañar el ring, otros robots o jugadores.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "RESTRICCIONES DE ROBOTS",
+    "text": "RESTRICCIONES DE ROBOTS\nDispositivos de interferencia, como luces estroboscópicas, luz tipo flash, etc. Destinados a saturar los sensores IR de los oponentes, no están permitidos. No se permiten piezas que puedan romper o dañar el Dohyo. No utilice piezas que están destinadas a dañar el robot del oponente o su operador. Los empujones y golpes normales no se consideran intención de dañar. Dispositivos que pueden almacenar líquido, polvo, gas u otras sustancias para arrojar al oponente no están permitidos. No se permiten dispositivos con llamas. No se permiten dispositivos que arrojen cosas a tu oponente. No se permiten sustancias pegajosas para mejorar la tracción. Los neumáticos y otros componentes del robot en contacto con el Dohyo no deben poder levantar y sostener un papel A4 estándar (80 g/m2) durante más de cinco segundos. Los dispositivos para aumentar la fuerza descendente, como bombas de vacío e imanes, no están permitidos. Todos los bordes, incluidos, entre otros, la pala frontal, no deben estar lo suficientemente afilados como para rayar o dañar el ring, otros robots o jugadores.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#requisitos-para-el-dohyo-sumo",
     "href": "sumo_amateur.html#requisitos-para-el-dohyo-sumo",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.5 REQUISITOS PARA EL DOHYO (SUMO)",
-    "text": "3.5 REQUISITOS PARA EL DOHYO (SUMO)\n\n3.5.1 Interior de Dohyo\nEl interior del Dohyo se define como la superficie de juego rodeada e incluyendo la línea fronteriza. Cualquier lugar fuera de esta área se llama exterior del Dohyo.\n\n\n3.5.2 Especificaciones de Dohyo\nEl Dohyo deberá ser de forma circular y de las dimensiones exactas. La línea del borde está marcada como un Dohyo circular blanco mate de un ancho apropiado para la clase dada en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular. Para todas las dimensiones dadas del Dohyo se aplica una tolerancia del 5%. Líneas de inicio (Shikiri-Sen) color café tendrán una longitud de 100 mm o, en su defecto, se puede utilizar otro elemento que simule las mismas que se deben retirar antes de iniciar el partido. La superficie del Dohyo debe ser lisa, pintada o de vinil de colores negro y blanco mate.\n\n\n\n\n\n\n\n3.5.3 Exterior de Dohyo\nDebe haber un espacio apropiado para cada clase de sumo fuera del borde exterior del ring. Este espacio puede ser de cualquier color excepto blanco ni retroreflectivo, y debe de ser material blando de cualquier forma siempre y cuando no se violen los conceptos básicos de estas reglas. Esta área, con el Dohyo en el medio, se denominará “área del Dohyo”. Cualquier marca o parte de la plataforma del ring fuera de las dimensiones mínimas también se considerará en el área del ring. ## DINÁMICA DEL PARTIDO DE SUMO Un partido consta de 3 rondas, cada una de 2 minutos máximo. El equipo que gana dos rondas o recibe dos puntos “Yuko” primero, dentro del límite de tiempo, deberá ganar el partido. Un equipo recibe un punto “Yuko” cuando gana una ronda. Si alcanza el límite de tiempo antes de que un equipo pueda obtener dos puntos “Yuko”, y uno de los equipos ha recibido un punto Yuko, el equipo con un punto Yuko ganará. Cuando en las 3 rondas no se ha ganado por ninguno de los equipos dentro del límite de tiempo, se podrá disputar una ronda adicional, durante la cual ganará el equipo que reciba el primer punto Yuko. Alternativamente, el ganador/perdedor del partido puede ser decidido por los jueces, por sorteo o por revancha. Se otorgará un punto Yuko al ganador cuando se solicite la decisión de los jueces o se empleen sorteos.\n\n\n3.5.4 CURSO DE LA COMPETICIÓN\n¡¡¡Importante!!! Una persona puede ser operador de un máximo de 2 robots.\nLos robots se dividirán en grupos según el número de participantes. La competencia se llevará a cabo en un sistema de grupos/cuartos/semifinales/finales para permitir tantas rondas de juego para cada robot. Cada partido se juega al mejor de 3 rondas y será supervisado por 2 árbitros (uno principal y un asistente), excepto las finales, donde el partido se disputa en el sistema de eliminación directa. Si dos robots de un mismo equipo avanzan a cuartos/semifinales/finales y jugarán uno contra el otro, deberán jugar el partido, sin exigir que uno de ellos avance sin jugar, ni exigir que se arreglen los partidos o los opositores. El orden de los robots en los grupos será aleatorio, se hará después de la apertura oficial de la competencia y estará disponible en el sitio web para todos los participantes. Los que superen los grupos jugarán cuartos/semifinales/final. Si el número de participantes no fuera suficiente para los grupos, la competición se jugará desde el principio utilizando el sistema todos contra todos. La posición será aleatoria. Un equipo tiene derecho a 2 interrupciones de reprogramación, de 2 minutos cada una. Esta regla se aplica solo durante un partido en curso. Además de los partidos, se permiten los cambios y reprogramaciones. Los equipos deben estar en el inicio en un máximo de 1 minuto desde la solicitud; de lo contrario, perderán el partido. No existirá mesa de retención de robots; todos los equipos permanecerán en la sala reservada para ellos (la sala estará marcada en el mapa como área de pits). Los equipos pueden salir de la sala solo cuando son llamados al área de competencia. Cada equipo será llamado por un oficial de competencia cuando necesite ir a la sala de espera que se encuentra cerca del área de competencia. Solo existirá mesa de homologación. Después de la homologación, los equipos que seguirán en la salida permanecerán en el área de competición, en la zona de espera. Los equipos saldrán de esta área solo si el árbitro está de acuerdo, o solo para reparaciones, y deben regresar en el tiempo establecido por el árbitro. Si el equipo no regresa a la primera llamada, perderá el partido. Terminado un partido, los equipos deben regresar a la sala reservada para ellos. Cada equipo tiene la responsabilidad de seguir la parrilla de salida (horario), que se muestra en el sitio web y en el espacio del equipo.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "REQUISITOS PARA EL DOHYO (SUMO)",
+    "text": "REQUISITOS PARA EL DOHYO (SUMO)\n\nInterior de Dohyo\nEl interior del Dohyo se define como la superficie de juego rodeada e incluyendo la línea fronteriza. Cualquier lugar fuera de esta área se llama exterior del Dohyo.\n\n\nEspecificaciones de Dohyo\nEl Dohyo deberá ser de forma circular y de las dimensiones exactas. La línea del borde está marcada como un Dohyo circular blanco mate de un ancho apropiado para la clase dada en el borde exterior de la superficie de juego. El área del Dohyo se extiende hasta el borde exterior de esta línea circular. Para todas las dimensiones dadas del Dohyo se aplica una tolerancia del 5%. Líneas de inicio (Shikiri-Sen) color café tendrán una longitud de 100 mm o, en su defecto, se puede utilizar otro elemento que simule las mismas que se deben retirar antes de iniciar el partido. La superficie del Dohyo debe ser lisa, pintada o de vinil de colores negro y blanco mate.\n\n\n\n\n\n\n\nExterior de Dohyo\nDebe haber un espacio apropiado para cada clase de sumo fuera del borde exterior del ring. Este espacio puede ser de cualquier color excepto blanco ni retroreflectivo, y debe de ser material blando de cualquier forma siempre y cuando no se violen los conceptos básicos de estas reglas. Esta área, con el Dohyo en el medio, se denominará “área del Dohyo”. Cualquier marca o parte de la plataforma del ring fuera de las dimensiones mínimas también se considerará en el área del ring. ## DINÁMICA DEL PARTIDO DE SUMO Un partido consta de 3 rondas, cada una de 2 minutos máximo. El equipo que gana dos rondas o recibe dos puntos “Yuko” primero, dentro del límite de tiempo, deberá ganar el partido. Un equipo recibe un punto “Yuko” cuando gana una ronda. Si alcanza el límite de tiempo antes de que un equipo pueda obtener dos puntos “Yuko”, y uno de los equipos ha recibido un punto Yuko, el equipo con un punto Yuko ganará. Cuando en las 3 rondas no se ha ganado por ninguno de los equipos dentro del límite de tiempo, se podrá disputar una ronda adicional, durante la cual ganará el equipo que reciba el primer punto Yuko. Alternativamente, el ganador/perdedor del partido puede ser decidido por los jueces, por sorteo o por revancha. Se otorgará un punto Yuko al ganador cuando se solicite la decisión de los jueces o se empleen sorteos.\n\n\nCURSO DE LA COMPETICIÓN\n¡¡¡Importante!!! Una persona puede ser operador de un máximo de 2 robots.\nLos robots se dividirán en grupos según el número de participantes. La competencia se llevará a cabo en un sistema de grupos/cuartos/semifinales/finales para permitir tantas rondas de juego para cada robot. Cada partido se juega al mejor de 3 rondas y será supervisado por 2 árbitros (uno principal y un asistente), excepto las finales, donde el partido se disputa en el sistema de eliminación directa. Si dos robots de un mismo equipo avanzan a cuartos/semifinales/finales y jugarán uno contra el otro, deberán jugar el partido, sin exigir que uno de ellos avance sin jugar, ni exigir que se arreglen los partidos o los opositores. El orden de los robots en los grupos será aleatorio, se hará después de la apertura oficial de la competencia y estará disponible en el sitio web para todos los participantes. Los que superen los grupos jugarán cuartos/semifinales/final. Si el número de participantes no fuera suficiente para los grupos, la competición se jugará desde el principio utilizando el sistema todos contra todos. La posición será aleatoria. Un equipo tiene derecho a 2 interrupciones de reprogramación, de 2 minutos cada una. Esta regla se aplica solo durante un partido en curso. Además de los partidos, se permiten los cambios y reprogramaciones. Los equipos deben estar en el inicio en un máximo de 1 minuto desde la solicitud; de lo contrario, perderán el partido. No existirá mesa de retención de robots; todos los equipos permanecerán en la sala reservada para ellos (la sala estará marcada en el mapa como área de pits). Los equipos pueden salir de la sala solo cuando son llamados al área de competencia. Cada equipo será llamado por un oficial de competencia cuando necesite ir a la sala de espera que se encuentra cerca del área de competencia. Solo existirá mesa de homologación. Después de la homologación, los equipos que seguirán en la salida permanecerán en el área de competición, en la zona de espera. Los equipos saldrán de esta área solo si el árbitro está de acuerdo, o solo para reparaciones, y deben regresar en el tiempo establecido por el árbitro. Si el equipo no regresa a la primera llamada, perderá el partido. Terminado un partido, los equipos deben regresar a la sala reservada para ellos. Cada equipo tiene la responsabilidad de seguir la parrilla de salida (horario), que se muestra en el sitio web y en el espacio del equipo.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#iniciar-detener-reanudar-finalizar-una-partida",
     "href": "sumo_amateur.html#iniciar-detener-reanudar-finalizar-una-partida",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.6 INICIAR, DETENER, REANUDAR, FINALIZAR UNA PARTIDA",
-    "text": "3.6 INICIAR, DETENER, REANUDAR, FINALIZAR UNA PARTIDA\nColocación de robots Siguiendo las instrucciones del juez, los dos equipos se acercan al ring para colocar sus robots en el ring. Los operadores colocarán los robots al mismo tiempo en el ring. El juez dará la señal. Después de la colocación, los robots ya no se pueden mover. Cualquier parte de los robots debe colocarse detrás del Shikiri-Sen (líneas de observación). El robot no cruzará la línea de salida hacia el oponente. El robot debe colocarse sobre y dentro de las líneas extendidas verticalmente desde ambos bordes de Shikiri-Sen (línea de inicio).",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "INICIAR, DETENER, REANUDAR, FINALIZAR UNA PARTIDA",
+    "text": "INICIAR, DETENER, REANUDAR, FINALIZAR UNA PARTIDA\nColocación de robots Siguiendo las instrucciones del juez, los dos equipos se acercan al ring para colocar sus robots en el ring. Los operadores colocarán los robots al mismo tiempo en el ring. El juez dará la señal. Después de la colocación, los robots ya no se pueden mover. Cualquier parte de los robots debe colocarse detrás del Shikiri-Sen (líneas de observación). El robot no cruzará la línea de salida hacia el oponente. El robot debe colocarse sobre y dentro de las líneas extendidas verticalmente desde ambos bordes de Shikiri-Sen (línea de inicio).",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#comienzo-de-la-contienda",
     "href": "sumo_amateur.html#comienzo-de-la-contienda",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.7 COMIENZO DE LA CONTIENDA",
-    "text": "3.7 COMIENZO DE LA CONTIENDA\nEl juez anuncia el comienzo de la ronda. Los equipos comienzan sus robots; no existe tiempo de seguridad, los robots pueden empezar a funcionar inmediatamente. Después de la señal de encendido, los jugadores deben salir del área del ring.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "COMIENZO DE LA CONTIENDA",
+    "text": "COMIENZO DE LA CONTIENDA\nEl juez anuncia el comienzo de la ronda. Los equipos comienzan sus robots; no existe tiempo de seguridad, los robots pueden empezar a funcionar inmediatamente. Después de la señal de encendido, los jugadores deben salir del área del ring.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#detener-reanudar",
     "href": "sumo_amateur.html#detener-reanudar",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.8 DETENER, REANUDAR",
-    "text": "3.8 DETENER, REANUDAR\nEl partido se detiene y se reanuda cuando un juez lo anuncia.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "DETENER, REANUDAR",
+    "text": "DETENER, REANUDAR\nEl partido se detiene y se reanuda cuando un juez lo anuncia.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#fin",
     "href": "sumo_amateur.html#fin",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.9 FIN",
-    "text": "3.9 FIN\nEl partido termina cuando el juez lo anuncia. Los dos equipos recuperan los robots del área del ring.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "FIN",
+    "text": "FIN\nEl partido termina cuando el juez lo anuncia. Los dos equipos recuperan los robots del área del ring.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#puntuación",
     "href": "sumo_amateur.html#puntuación",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.10 PUNTUACIÓN",
-    "text": "3.10 PUNTUACIÓN\nPuntuación para robots: se otorgará un punto Yuko cuando: Un equipo obliga legalmente al cuerpo del robot contrario a tocar el espacio exterior. el Dohyo, que incluye el lado lateral del Dohyo en sí mismo. El robot oponente ha tocado el espacio fuera del ring por sí solo. Cualquiera de las anteriores tiene lugar al mismo tiempo que finaliza el partido anunciado. Cuando un robot con ruedas ha volado y ha caído sobre el ring o en condiciones similares, Yuko no se contará y el partido continúa.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "PUNTUACIÓN",
+    "text": "PUNTUACIÓN\nPuntuación para robots: se otorgará un punto Yuko cuando: Un equipo obliga legalmente al cuerpo del robot contrario a tocar el espacio exterior. el Dohyo, que incluye el lado lateral del Dohyo en sí mismo. El robot oponente ha tocado el espacio fuera del ring por sí solo. Cualquiera de las anteriores tiene lugar al mismo tiempo que finaliza el partido anunciado. Cuando un robot con ruedas ha volado y ha caído sobre el ring o en condiciones similares, Yuko no se contará y el partido continúa.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#decisión-por-criterio-de-los-jueces",
     "href": "sumo_amateur.html#decisión-por-criterio-de-los-jueces",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.11 DECISIÓN POR CRITERIO DE LOS JUECES",
-    "text": "3.11 DECISIÓN POR CRITERIO DE LOS JUECES\nCuando se requiera la decisión de los jueces para decidir el ganador, se tendrán en cuenta los siguientes puntos, tomados en consideración: Méritos técnicos en el movimiento y funcionamiento de un robot. Puntos de penalización durante el partido Actitud de los jugadores durante el partido.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "DECISIÓN POR CRITERIO DE LOS JUECES",
+    "text": "DECISIÓN POR CRITERIO DE LOS JUECES\nCuando se requiera la decisión de los jueces para decidir el ganador, se tendrán en cuenta los siguientes puntos, tomados en consideración: Méritos técnicos en el movimiento y funcionamiento de un robot. Puntos de penalización durante el partido Actitud de los jugadores durante el partido.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#revancha",
     "href": "sumo_amateur.html#revancha",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.12 REVANCHA",
-    "text": "3.12 REVANCHA\nLos robots están enredados u orbitando entre sí sin progreso perceptible durante 5 segundos. Si no está claro si se está progresando o no, el juez puede extender el límite de tiempo para el progreso observable hasta 30 segundos. Ambos robots se mueven, sin avanzar, o se detienen (exactamente al mismo tiempo) y permanecen parados durante 5 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento primero, después de 5 segundos se declarará que no tiene voluntad para luchar. En este caso, el oponente recibirá un Yuko, incluso si el oponente también se detiene. Si ambos robots se están moviendo y no está claro si se está progresando o no, el juez puede extender el límite de tiempo hasta 30 segundos. Si ambos robots tocan el exterior del Dohyo aproximadamente al mismo tiempo, y no puede determinarse quién tocó primero, se convoca una revancha.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "REVANCHA",
+    "text": "REVANCHA\nLos robots están enredados u orbitando entre sí sin progreso perceptible durante 5 segundos. Si no está claro si se está progresando o no, el juez puede extender el límite de tiempo para el progreso observable hasta 30 segundos. Ambos robots se mueven, sin avanzar, o se detienen (exactamente al mismo tiempo) y permanecen parados durante 5 segundos sin tocarse. Sin embargo, si un robot detiene su movimiento primero, después de 5 segundos se declarará que no tiene voluntad para luchar. En este caso, el oponente recibirá un Yuko, incluso si el oponente también se detiene. Si ambos robots se están moviendo y no está claro si se está progresando o no, el juez puede extender el límite de tiempo hasta 30 segundos. Si ambos robots tocan el exterior del Dohyo aproximadamente al mismo tiempo, y no puede determinarse quién tocó primero, se convoca una revancha.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#solicitud-para-detener-el-partido",
     "href": "sumo_amateur.html#solicitud-para-detener-el-partido",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.13 SOLICITUD PARA DETENER EL PARTIDO",
-    "text": "3.13 SOLICITUD PARA DETENER EL PARTIDO\nUn jugador puede solicitar detener el juego cuando está lesionado o su robot tuvo un accidente y el juego no puede continuar.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "SOLICITUD PARA DETENER EL PARTIDO",
+    "text": "SOLICITUD PARA DETENER EL PARTIDO\nUn jugador puede solicitar detener el juego cuando está lesionado o su robot tuvo un accidente y el juego no puede continuar.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#no-se-puede-continuar-el-partido",
     "href": "sumo_amateur.html#no-se-puede-continuar-el-partido",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.14 NO SE PUEDE CONTINUAR EL PARTIDO",
-    "text": "3.14 NO SE PUEDE CONTINUAR EL PARTIDO\nCuando el juego no puede continuar debido a una lesión del jugador o un accidente del robot, el jugador que es la causa de dicha lesión o accidente pierde el partido. Cuando no esté claro qué equipo es la causa, el equipo que no puede continuar el juego, o que solicita detener el juego, será declarado perdedor.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "NO SE PUEDE CONTINUAR EL PARTIDO",
+    "text": "NO SE PUEDE CONTINUAR EL PARTIDO\nCuando el juego no puede continuar debido a una lesión del jugador o un accidente del robot, el jugador que es la causa de dicha lesión o accidente pierde el partido. Cuando no esté claro qué equipo es la causa, el equipo que no puede continuar el juego, o que solicita detener el juego, será declarado perdedor.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#determinación-del-ganador",
     "href": "sumo_amateur.html#determinación-del-ganador",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.15 DETERMINACIÓN DEL GANADOR",
-    "text": "3.15 DETERMINACIÓN DEL GANADOR\nEl robot con más puntos será determinado como el ganador del partido. En caso de empate en la puntuación final, el juez votará por el ganador según la táctica, la agresividad y la actividad. Si ninguno de los robots anotó un punto, el juez puede decidir que no hay ganador del partido.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "DETERMINACIÓN DEL GANADOR",
+    "text": "DETERMINACIÓN DEL GANADOR\nEl robot con más puntos será determinado como el ganador del partido. En caso de empate en la puntuación final, el juez votará por el ganador según la táctica, la agresividad y la actividad. Si ninguno de los robots anotó un punto, el juez puede decidir que no hay ganador del partido.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#declaración-de-objeciones",
     "href": "sumo_amateur.html#declaración-de-objeciones",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.16 DECLARACIÓN DE OBJECIONES",
-    "text": "3.16 DECLARACIÓN DE OBJECIONES\nNo se declararán objeciones contra las decisiones de los jueces. La persona líder de un equipo puede presentar objeciones al Comité, antes de que finalice el partido, si existen dudas en el ejercicio de estas reglas. Si no hay miembros del Comité presentes, la objeción se puede presentar al juez. antes de que termine el partido.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "DECLARACIÓN DE OBJECIONES",
+    "text": "DECLARACIÓN DE OBJECIONES\nNo se declararán objeciones contra las decisiones de los jueces. La persona líder de un equipo puede presentar objeciones al Comité, antes de que finalice el partido, si existen dudas en el ejercicio de estas reglas. Si no hay miembros del Comité presentes, la objeción se puede presentar al juez. antes de que termine el partido.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#jueces",
     "href": "sumo_amateur.html#jueces",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.17 JUECES",
-    "text": "3.17 JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia. En caso de duda en la aplicación de las normas, el juez se regirá por el reglamento establecido haciéndolo cumplir.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "JUECES",
+    "text": "JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia. En caso de duda en la aplicación de las normas, el juez se regirá por el reglamento establecido haciéndolo cumplir.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#transitorios",
     "href": "sumo_amateur.html#transitorios",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.18 TRANSITORIOS:",
-    "text": "3.18 TRANSITORIOS:\nDe no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento. El cronograma oficial se dará a conocer unos días antes de la competencia, el cual podrá variar en base a los imprevistos.",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "TRANSITORIOS:",
+    "text": "TRANSITORIOS:\nDe no contar con un mínimo de 4 robots o equipos participantes, la categoría será considerada únicamente como exhibición. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces, sin derecho de apelación. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento. El cronograma oficial se dará a conocer unos días antes de la competencia, el cual podrá variar en base a los imprevistos.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "sumo_amateur.html#inscriba-su-robot-de-sumo-rc-aquí",
     "href": "sumo_amateur.html#inscriba-su-robot-de-sumo-rc-aquí",
-    "title": "3  Reglamento del campeonato de sumo RC amateur",
-    "section": "3.19 INSCRIBA SU ROBOT DE SUMO RC AQUÍ",
-    "text": "3.19 INSCRIBA SU ROBOT DE SUMO RC AQUÍ",
+    "title": "Reglamento del campeonato de sumo RC amateur",
+    "section": "INSCRIBA SU ROBOT DE SUMO RC AQUÍ",
+    "text": "INSCRIBA SU ROBOT DE SUMO RC AQUÍ",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Reglamento del campeonato de sumo RC amateur</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html",
     "href": "linea_amateur.html",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
     "section": "",
-    "text": "4.1 DESCRIPCIÓN GENERAL\nDiseñar y desarrollar un robot completamente autónomo, que sea capaz de recorrer un circuito de carreras formado por una línea negra en un fondo blanco. Gana el robot que complete el circuito en el menor tiempo posible.",
+    "text": "DESCRIPCIÓN GENERAL\nDiseñar y desarrollar un robot completamente autónomo, que sea capaz de recorrer un circuito de carreras formado por una línea negra en un fondo blanco. Gana el robot que complete el circuito en el menor tiempo posible.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#importante",
     "href": "linea_amateur.html#importante",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.2 IMPORTANTE!!",
-    "text": "4.2 IMPORTANTE!!\nLa organización es responsable de ofrecer una competencia justa y transparente con el uso de cronómetros de pista, los cuales estarán acoplados para medir el tiempo cuando el robot cruce la línea marcada o el sensor, de ser el caso. No se permiten sustancias pegajosas para mejorar la tracción. Los neumáticos y otros componentes del robot en contacto con la pista no deben poder levantar y sostener un papel A4 estándar (80 g/m2) durante más de cinco segundos.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "IMPORTANTE!!",
+    "text": "IMPORTANTE!!\nLa organización es responsable de ofrecer una competencia justa y transparente con el uso de cronómetros de pista, los cuales estarán acoplados para medir el tiempo cuando el robot cruce la línea marcada o el sensor, de ser el caso. No se permiten sustancias pegajosas para mejorar la tracción. Los neumáticos y otros componentes del robot en contacto con la pista no deben poder levantar y sostener un papel A4 estándar (80 g/m2) durante más de cinco segundos.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#características-técnicas-del-robot",
     "href": "linea_amateur.html#características-técnicas-del-robot",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.3 CARACTERÍSTICAS TÉCNICAS DEL ROBOT",
-    "text": "4.3 CARACTERÍSTICAS TÉCNICAS DEL ROBOT\nLas dimensiones del robot no podrán exceder 25 cm de ancho x 25 cm de largo de base; la altura del robot no está limitada. El peso máximo no está limitado. El accionamiento del robot se realizará mediante un activador IR o manual. Los robots no pueden tener partes en movimiento (como las ruedas) antes de la señal de salida.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "CARACTERÍSTICAS TÉCNICAS DEL ROBOT",
+    "text": "CARACTERÍSTICAS TÉCNICAS DEL ROBOT\nLas dimensiones del robot no podrán exceder 25 cm de ancho x 25 cm de largo de base; la altura del robot no está limitada. El peso máximo no está limitado. El accionamiento del robot se realizará mediante un activador IR o manual. Los robots no pueden tener partes en movimiento (como las ruedas) antes de la señal de salida.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#materiales",
     "href": "linea_amateur.html#materiales",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.4 MATERIALES:",
-    "text": "4.4 MATERIALES:\nEl empleo de materiales en la estructura del robot y el número de motores es libre. El robot debe construirse con motores con caja de reducción amarilla o azul, sin modificaciones internas o externas. La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable. Ningún robot deberá alimentarse en forma externa a través de cables.\n\n\n\nMotor Amarillo\nMotor Azul",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "MATERIALES:",
+    "text": "MATERIALES:\nEl empleo de materiales en la estructura del robot y el número de motores es libre. El robot debe construirse con motores con caja de reducción amarilla o azul, sin modificaciones internas o externas. La alimentación eléctrica del robot será con pilas o baterías; está prohibido el uso de combustibles (motores de combustión) o cualquier material inflamable. Ningún robot deberá alimentarse en forma externa a través de cables.\n\n\n\nMotor Amarillo\nMotor Azul",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#limitaciones",
     "href": "linea_amateur.html#limitaciones",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.5 LIMITACIONES",
-    "text": "4.5 LIMITACIONES\nEl único sistema de comunicación permitido con el robot es el de encendido y apagado por vía inalámbrica o un activador manual. El robot debe comportarse de forma completamente autónoma durante todo el recorrido. El robot deberá estar preparado para trabajar bajo condiciones de luz variadas. Se permitirá realizar un cambio al hardware o al software en los robots por los competidores solo al término de la primera ronda.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "LIMITACIONES",
+    "text": "LIMITACIONES\nEl único sistema de comunicación permitido con el robot es el de encendido y apagado por vía inalámbrica o un activador manual. El robot debe comportarse de forma completamente autónoma durante todo el recorrido. El robot deberá estar preparado para trabajar bajo condiciones de luz variadas. Se permitirá realizar un cambio al hardware o al software en los robots por los competidores solo al término de la primera ronda.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#características-del-área-de-trabajo-del-robot.",
     "href": "linea_amateur.html#características-del-área-de-trabajo-del-robot.",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.6 CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT.",
-    "text": "4.6 CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT.\nLas características de la pista se darán a conocer 5 días antes de la inauguración del evento a través de la página oficial del evento. En el inicio y el fin del recorrido estarán indicadas con líneas perpendiculares a la derecha con respecto de la línea de trayectoria, siguiendo el sentido del recorrido. Las características principales de la pista donde se realizará la competencia son las que se muestran a continuación: - La pista será de madera. - En la pista no habrá cruces de línea. La aproximación más cercana de la línea de curso a los bordes de la pista será de no menos de 15 cm, medidos desde el centro de la línea. No se garantiza una iluminación especial. Se recomienda a los participantes tener en cuenta cada aspecto de la pista para luego no tener ningún inconveniente; si resultase el caso de tener algún inconveniente, avisar a los respectivos jueces antes de la participación.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT.",
+    "text": "CARACTERÍSTICAS DEL ÁREA DE TRABAJO DEL ROBOT.\nLas características de la pista se darán a conocer 5 días antes de la inauguración del evento a través de la página oficial del evento. En el inicio y el fin del recorrido estarán indicadas con líneas perpendiculares a la derecha con respecto de la línea de trayectoria, siguiendo el sentido del recorrido. Las características principales de la pista donde se realizará la competencia son las que se muestran a continuación: - La pista será de madera. - En la pista no habrá cruces de línea. La aproximación más cercana de la línea de curso a los bordes de la pista será de no menos de 15 cm, medidos desde el centro de la línea. No se garantiza una iluminación especial. Se recomienda a los participantes tener en cuenta cada aspecto de la pista para luego no tener ningún inconveniente; si resultase el caso de tener algún inconveniente, avisar a los respectivos jueces antes de la participación.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#desarrollo-de-la-competencia.",
     "href": "linea_amateur.html#desarrollo-de-la-competencia.",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.7 DESARROLLO DE LA COMPETENCIA.",
-    "text": "4.7 DESARROLLO DE LA COMPETENCIA.\nTodos los seguidores de línea deberán tener sus baterías completamente cargadas antes de cada carrera; el tiempo de espera es de máximo 3 min para poder competir; si no, será descalificado inmediatamente.\nEl intento inicia en el momento en que el seguidor de línea cruce la línea de salida; en este momento se comenzará a tomar el tiempo de recorrido. El tiempo de recorrido será detenido cuando la parte delantera del robot toque la línea de meta; este tiempo será almacenado. Cada robot tendrá un tiempo máximo de 3 minutos para finalizar totalmente la pista. Así mismo, tendrá 2 oportunidades para lograr el objetivo; en caso de finalizar en las dos ocasiones la pista, se almacenará el menor tiempo realizado por el robot. El robot está obligado a permanecer dentro de la pista y seguir la trayectoria marcada durante toda la carrera. Si el vehículo se sale de la pista y vuelve de nuevo al mismo punto en la pista por sí mismo, puede continuar la carrera. Si el vehículo se sale de la pista completamente o permanece inmóvil durante 5 segundos, la carrera se dará por terminada inmediatamente. El operador del robot no podrá tocar al vehículo mientras este se encuentre haciendo la trayectoria; en caso de que esto suceda, el robot será descalificado. Solo podrá tocarlo cuando inicie o termine el recorrido. Si ninguno de los equipos puede completar la trayectoria, el ganador será determinado por la distancia recorrida en el menor tiempo.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "DESARROLLO DE LA COMPETENCIA.",
+    "text": "DESARROLLO DE LA COMPETENCIA.\nTodos los seguidores de línea deberán tener sus baterías completamente cargadas antes de cada carrera; el tiempo de espera es de máximo 3 min para poder competir; si no, será descalificado inmediatamente.\nEl intento inicia en el momento en que el seguidor de línea cruce la línea de salida; en este momento se comenzará a tomar el tiempo de recorrido. El tiempo de recorrido será detenido cuando la parte delantera del robot toque la línea de meta; este tiempo será almacenado. Cada robot tendrá un tiempo máximo de 3 minutos para finalizar totalmente la pista. Así mismo, tendrá 2 oportunidades para lograr el objetivo; en caso de finalizar en las dos ocasiones la pista, se almacenará el menor tiempo realizado por el robot. El robot está obligado a permanecer dentro de la pista y seguir la trayectoria marcada durante toda la carrera. Si el vehículo se sale de la pista y vuelve de nuevo al mismo punto en la pista por sí mismo, puede continuar la carrera. Si el vehículo se sale de la pista completamente o permanece inmóvil durante 5 segundos, la carrera se dará por terminada inmediatamente. El operador del robot no podrá tocar al vehículo mientras este se encuentre haciendo la trayectoria; en caso de que esto suceda, el robot será descalificado. Solo podrá tocarlo cuando inicie o termine el recorrido. Si ninguno de los equipos puede completar la trayectoria, el ganador será determinado por la distancia recorrida en el menor tiempo.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#es-opción-de-la-organización-realizar-la-competencia-en-tres-fases",
     "href": "linea_amateur.html#es-opción-de-la-organización-realizar-la-competencia-en-tres-fases",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.8 Es OPCIÓN de la organización realizar la competencia en tres fases:",
-    "text": "4.8 Es OPCIÓN de la organización realizar la competencia en tres fases:\n\n4.8.1 Primera fase:\nLa competencia se realizará primeramente de manera individual, es decir, un robot tendrá que realizar totalmente la trayectoria marcada; el tiempo mínimo de la mejor vuelta será almacenado. Todos los robots participantes ejecutarán esta acción; con ello se determinarán las posiciones para realizar las eliminatorias. Si es necesario, se eliminarán para esta primera fase a los robots con un tiempo mayor, tal que el número de participantes se reduzca a 5.\n\n\n4.8.2 Segunda fase:\nla competencia será considerada el mejor tiempo entre los finalistas. En caso de tener alguna duda sobre esta normativa, comunicarse con el comité organizador. “En caso de haber muchos competidores, se hará un análisis para determinar si se va a realizar la competencia en estas dos fases; caso contrario, se dará aviso en la página oficial del torneo cinco días antes del torneo”.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "Es OPCIÓN de la organización realizar la competencia en tres fases:",
+    "text": "Es OPCIÓN de la organización realizar la competencia en tres fases:\n\nPrimera fase:\nLa competencia se realizará primeramente de manera individual, es decir, un robot tendrá que realizar totalmente la trayectoria marcada; el tiempo mínimo de la mejor vuelta será almacenado. Todos los robots participantes ejecutarán esta acción; con ello se determinarán las posiciones para realizar las eliminatorias. Si es necesario, se eliminarán para esta primera fase a los robots con un tiempo mayor, tal que el número de participantes se reduzca a 5.\n\n\nSegunda fase:\nla competencia será considerada el mejor tiempo entre los finalistas. En caso de tener alguna duda sobre esta normativa, comunicarse con el comité organizador. “En caso de haber muchos competidores, se hará un análisis para determinar si se va a realizar la competencia en estas dos fases; caso contrario, se dará aviso en la página oficial del torneo cinco días antes del torneo”.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#jueces",
     "href": "linea_amateur.html#jueces",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.9 JUECES",
-    "text": "4.9 JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas por el comité organizador en esta categoría sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "JUECES",
+    "text": "JUECES\nLa figura del juez o los jueces es importante en la competencia; él será el encargado de que las reglas y normas establecidas por el comité organizador en esta categoría sean cumplidas. Los jueces para esta competencia serán designados por el comité organizador. Los participantes pueden presentar sus objeciones al juez encargado de la categoría antes de que acabe la competencia.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#transitorios",
     "href": "linea_amateur.html#transitorios",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.10 TRANSITORIOS",
-    "text": "4.10 TRANSITORIOS\nDe no contar con un mínimo de 3 robots o equipos participantes, la categoría será considerada únicamente como exhibición y solo se realizará la entrega de medallas. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces. Las llaves de cada categoría serán presentadas posterior al cierre de inscripciones. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento.",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "TRANSITORIOS",
+    "text": "TRANSITORIOS\nDe no contar con un mínimo de 3 robots o equipos participantes, la categoría será considerada únicamente como exhibición y solo se realizará la entrega de medallas. Todos aquellos sucesos que no se contemplen dentro del presente reglamento, durante la competencia, serán resueltos por el Comité Organizador en conjunto con los jueces. Las llaves de cada categoría serán presentadas posterior al cierre de inscripciones. Una vez realizada la inscripción del robot, no se realizarán devoluciones de dinero. Los distintivos de cada participante serán entregados durante el desarrollo del evento.",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "linea_amateur.html#inscriba-su-seguidor-de-línea-aqui",
     "href": "linea_amateur.html#inscriba-su-seguidor-de-línea-aqui",
-    "title": "4  Reglamento del campeonato de seguidor de línea amateur.",
-    "section": "4.11 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
-    "text": "4.11 INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
+    "title": "Reglamento del campeonato de seguidor de línea amateur.",
+    "section": "INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
+    "text": "INSCRIBA SU SEGUIDOR DE LÍNEA AQUI",
     "crumbs": [
+      "Reglamentos",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Reglamento del campeonato de seguidor de línea amateur.</span>"
     ]
   },
   {
     "objectID": "premios_crespibot.html",
     "href": "premios_crespibot.html",
-    "title": "5  Premios entregados durante el CrespiBot",
+    "title": "Premios entregados durante el CrespiBot",
     "section": "",
-    "text": "5.1 Premio Campeón de Campeones\nToda la comunidad Crespiana se siente orgullosa de cada uno de los competidores, quienes participarán en el CrespiBot, ya que todos hemos observado la inmensa motivación, el incansable espíritu de lucha que nos han dejado ver y la inteligencia superior que cada uno ha demostrado, y como no puede ser de otra forma, se entregarán premios tras las mejores participaciones en cada categoría.\nPara este premio se conciderará todas las participaciones, en concursos de robótica acontecidas en el periodo lectivo 2024 - 2025, incluyendo el CrespiBot, quien acumúle mas puntos, será eñ acreedpr de los siguientes premios:",
+    "text": "Premio Campeón de Campeones\nToda la comunidad Crespiana se siente orgullosa de cada uno de los competidores, quienes participarán en el CrespiBot, ya que todos hemos observado la inmensa motivación, el incansable espíritu de lucha que nos han dejado ver y la inteligencia superior que cada uno ha demostrado, y como no puede ser de otra forma, se entregarán premios tras las mejores participaciones en cada categoría.\nPara este premio se conciderará todas las participaciones, en concursos de robótica acontecidas en el periodo lectivo 2024 - 2025, incluyendo el CrespiBot, quien acumúle mas puntos, será eñ acreedpr de los siguientes premios:",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Premios entregados durante el CrespiBot</span>"
     ]
@@ -552,9 +599,9 @@
   {
     "objectID": "premios_crespibot.html#premios-para-robots-seguidores-de-línea-amateur.",
     "href": "premios_crespibot.html#premios-para-robots-seguidores-de-línea-amateur.",
-    "title": "5  Premios entregados durante el CrespiBot",
-    "section": "5.2 Premios para robots seguidores de línea amateur.",
-    "text": "5.2 Premios para robots seguidores de línea amateur.\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nPrimer Lugar\n\nMedalla de campeón del CrespiBot.\nDiploma de Reconocimento.\nCupo directo a TaitaRobot.\n10 en un examen trimestral a su elección, para cada participante del equipo.\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nSegundo Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot.\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\n10 en un insumo en las materias técnicas, para cada integrante del equipo\n\n\n\nDesde el cuarto lugar en adelante\n\nUna nota de 10 en las materias técnicas, para cada integrante del equipo.\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
+    "title": "Premios entregados durante el CrespiBot",
+    "section": "Premios para robots seguidores de línea amateur.",
+    "text": "Premios para robots seguidores de línea amateur.\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nPrimer Lugar\n\nMedalla de campeón del CrespiBot.\nDiploma de Reconocimento.\nCupo directo a TaitaRobot.\n10 en un examen trimestral a su elección, para cada participante del equipo.\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nSegundo Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot.\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\n10 en un insumo en las materias técnicas, para cada integrante del equipo\n\n\n\nDesde el cuarto lugar en adelante\n\nUna nota de 10 en las materias técnicas, para cada integrante del equipo.\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Premios entregados durante el CrespiBot</span>"
     ]
@@ -562,9 +609,9 @@
   {
     "objectID": "premios_crespibot.html#premios-para-robots-de-sumo-rc-amateur.",
     "href": "premios_crespibot.html#premios-para-robots-de-sumo-rc-amateur.",
-    "title": "5  Premios entregados durante el CrespiBot",
-    "section": "5.3 Premios para robots de sumo RC amateur.",
-    "text": "5.3 Premios para robots de sumo RC amateur.\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nPrimer Lugar\n\nMedalla de campeón del CrespiBot.\nCupo directo a TaitaRobot.\n10 en un examen trimestral a su elección, para cada participante del equipo.\n\n\n\nSegundo Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot\n10 en un insumo en las materias técnicas, para cada participante del equipo\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
+    "title": "Premios entregados durante el CrespiBot",
+    "section": "Premios para robots de sumo RC amateur.",
+    "text": "Premios para robots de sumo RC amateur.\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nPrimer Lugar\n\nMedalla de campeón del CrespiBot.\nCupo directo a TaitaRobot.\n10 en un examen trimestral a su elección, para cada participante del equipo.\n\n\n\nSegundo Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot\n10 en un insumo en las materias técnicas, para cada participante del equipo\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Premios entregados durante el CrespiBot</span>"
     ]
@@ -572,9 +619,9 @@
   {
     "objectID": "premios_crespibot.html#premios-para-robots-insecto-amateur.",
     "href": "premios_crespibot.html#premios-para-robots-insecto-amateur.",
-    "title": "5  Premios entregados durante el CrespiBot",
-    "section": "5.4 Premios para robots insecto amateur.",
-    "text": "5.4 Premios para robots insecto amateur.\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nPrimer Lugar\n\nMedalla de campeón del CrespiBot.\nDiploma de Reconocimento.\nCupo directo a TaitaRobot.\n10 en un examen trimestral a su elección.\n10 en un insumo en las materias técnicas.\n\n\n\nSegundo Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot.\n10 en un insumo en las materias técnicas.\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\n10 en un insumo en las materias técnicas.\n\n\n\nDesde el cuarto lugar en adelante\n\nUna nota de 10 en las materias técnicas.\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
+    "title": "Premios entregados durante el CrespiBot",
+    "section": "Premios para robots insecto amateur.",
+    "text": "Premios para robots insecto amateur.\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nPrimer Lugar\n\nMedalla de campeón del CrespiBot.\nDiploma de Reconocimento.\nCupo directo a TaitaRobot.\n10 en un examen trimestral a su elección.\n10 en un insumo en las materias técnicas.\n\n\n\nSegundo Lugar\n\nDiploma de Reconocimiento.\nCupo directo a TaitaRobot.\n10 en un insumo en las materias técnicas.\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\n10 en un insumo en las materias técnicas.\n\n\n\nDesde el cuarto lugar en adelante\n\nUna nota de 10 en las materias técnicas.\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Premios entregados durante el CrespiBot</span>"
     ]
@@ -582,9 +629,9 @@
   {
     "objectID": "premios_crespibot.html#premios-para-robots-soccer-amateur-equipos.",
     "href": "premios_crespibot.html#premios-para-robots-soccer-amateur-equipos.",
-    "title": "5  Premios entregados durante el CrespiBot",
-    "section": "5.5 Premios para robots soccer amateur (equipos).",
-    "text": "5.5 Premios para robots soccer amateur (equipos).\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nEquipo Primer Lugar\n\n2 Medallas de campeón del CrespiBot.\n2 Diplomas de Reconocimento.\n2 Cupos directo a TaitaRobot.\n10 en un examen trimestral a su elección, para cada integrante del equipo.\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nSegundo Lugar\n\n2 Diplomas de Reconocimiento.\nCupo directo a TaitaRobot\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\n10 en un insumo en las materias técnicas.\n\n\n\nDesde el cuarto lugar en adelante\n\nUna nota de 10 en las materias técnicas.\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
+    "title": "Premios entregados durante el CrespiBot",
+    "section": "Premios para robots soccer amateur (equipos).",
+    "text": "Premios para robots soccer amateur (equipos).\nLe recomendamos revisar el reglamento.\n\n\n\n\n\n\n\nPosición\nPremio\n\n\n\n\nEquipo Primer Lugar\n\n2 Medallas de campeón del CrespiBot.\n2 Diplomas de Reconocimento.\n2 Cupos directo a TaitaRobot.\n10 en un examen trimestral a su elección, para cada integrante del equipo.\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nSegundo Lugar\n\n2 Diplomas de Reconocimiento.\nCupo directo a TaitaRobot\n10 en un insumo en las materias técnicas, para cada integrante del equipo.\n\n\n\nTercer Lugar\n\nDiploma de Reconocimiento.\n10 en un insumo en las materias técnicas.\n\n\n\nDesde el cuarto lugar en adelante\n\nUna nota de 10 en las materias técnicas.\n\n\n\n\nIMPORTANTE: deben existir al menos 4 participantes o equipos inscritos, caso contrario se conciderará un evento de exhibición y se entregará un diploma de participación.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Premios entregados durante el CrespiBot</span>"
     ]
@@ -592,9 +639,9 @@
   {
     "objectID": "llaves_crespibot.html",
     "href": "llaves_crespibot.html",
-    "title": "6  Llaves y clasificaciones",
+    "title": "Llaves y clasificaciones",
     "section": "",
-    "text": "6.1 SOCCER AMATEUR\nAquí se podra observar las llaves y los avances en vivo.",
+    "text": "SOCCER AMATEUR\nAquí se podra observar las llaves y los avances en vivo.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Llaves y clasificaciones</span>"
     ]
@@ -602,9 +649,9 @@
   {
     "objectID": "llaves_crespibot.html#sumo-rf-amateur",
     "href": "llaves_crespibot.html#sumo-rf-amateur",
-    "title": "6  Llaves y clasificaciones",
-    "section": "6.2 SUMO RF AMATEUR",
-    "text": "6.2 SUMO RF AMATEUR",
+    "title": "Llaves y clasificaciones",
+    "section": "SUMO RF AMATEUR",
+    "text": "SUMO RF AMATEUR",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Llaves y clasificaciones</span>"
     ]
@@ -612,9 +659,9 @@
   {
     "objectID": "llaves_crespibot.html#seguidor-de-linea-amateur",
     "href": "llaves_crespibot.html#seguidor-de-linea-amateur",
-    "title": "6  Llaves y clasificaciones",
-    "section": "6.3 SEGUIDOR DE LINEA AMATEUR",
-    "text": "6.3 SEGUIDOR DE LINEA AMATEUR",
+    "title": "Llaves y clasificaciones",
+    "section": "SEGUIDOR DE LINEA AMATEUR",
+    "text": "SEGUIDOR DE LINEA AMATEUR",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Llaves y clasificaciones</span>"
     ]
@@ -622,11 +669,41 @@
   {
     "objectID": "llaves_crespibot.html#destreza-insecto-amateur",
     "href": "llaves_crespibot.html#destreza-insecto-amateur",
-    "title": "6  Llaves y clasificaciones",
-    "section": "6.4 DESTREZA INSECTO AMATEUR",
-    "text": "6.4 DESTREZA INSECTO AMATEUR",
+    "title": "Llaves y clasificaciones",
+    "section": "DESTREZA INSECTO AMATEUR",
+    "text": "DESTREZA INSECTO AMATEUR",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Llaves y clasificaciones</span>"
+    ]
+  },
+  {
+    "objectID": "ganadores_crespibot.html",
+    "href": "ganadores_crespibot.html",
+    "title": "Ganadores del CrespiBot 2025",
+    "section": "",
+    "text": "Agradecimientos especiales:\nDicho esto, y antes de anunciar a los ganadores, es importante reconocer el trabajo y esfuerzo de quienes de alguna manera apoyaron a que el evento se lleve a cabo:",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ganadores del CrespiBot 2025</span>"
+    ]
+  },
+  {
+    "objectID": "ganadores_crespibot.html#agradecimientos-especiales",
+    "href": "ganadores_crespibot.html#agradecimientos-especiales",
+    "title": "Ganadores del CrespiBot 2025",
+    "section": "",
+    "text": "Homologación\nEn la homologación estuvieron al frente docentes del área técnica de electromecánica; desde la perspectiva de la organización, son las personas más capacitadas para determinar pesos y medidas de las estructuras de los robots construidos por nuestros estudiantes.\n\n\n\nProf. Iván Paute\nLcdo. Ernesto Chauca\n\n\n\n\n\n\n\n\n\nJueces\nComo jueces del evento tuvimos la suerte de tener a docentes con un alto nivel de experiencia y conocimiento del reglamento.\n\n\n\n\n\n\n\n\nIng. Alfonso Cuzco\nTec. Sup. Christopher Jara\nProf. Cristian Matute\n\n\n\n\n\n\n\nJuez de Robot Soocer\nJuez de Seguidores de línea\nJuez de Robots de Destreza\nJuez de Sumo RF\n\n\n\n\n\nCoordinación\nY para finalizar, debemos agradecer a la institución pues, nos brindo las facilidades para el desarrolo, la coordinación y la logística, facilitandonos los espacios necesarios y el tiempo dentro de las fiestas patronales, logrando convertirlo en un magno evento de robótica.\n\n\n\n\n\n\n\nLcdo. Diego Fajardo\nTec. Sup Christopher Jara",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ganadores del CrespiBot 2025</span>"
+    ]
+  },
+  {
+    "objectID": "ganadores_crespibot.html#resultados-por-categoria",
+    "href": "ganadores_crespibot.html#resultados-por-categoria",
+    "title": "Ganadores del CrespiBot 2025",
+    "section": "Resultados por categoria",
+    "text": "Resultados por categoria\n\nRobot “Insecto de destreza RF Amateur”\n\n\n\n\n\n\n\n\nPrimer Lugar\nJuán José Mamallacta\n\n\n\n\nMire aquí toda la llave Mire los premios aquí\n\n\nRobot “Seguidor de Linea autónomo Amateur”\n\n\n\n\n\n\n\n\nPrimer Lugar\nÁngel Aucapiña\nRousse Guamán\n\n\n\n\nMire aquí toda la llave Mire los premios aquí\n\n\nRobot “Sumo RF Amateur”\n\n\n\n\n\n\n\n\nPrimer Lugar\nAngel Aucapiña\nFabricio Caceres\n\n\n\nSegundo Lugar\nJustin Reino\n\n\n\nTercer Lugar\nJuan Maza\nEdisson Maza\n\n\n\n\nMire aquí toda la llave Mire los premios aquí\n\n\nRobot “Soccer Amateur”\n\n\n\n\n\n\n\n\nPrimer Lugar\nAnthony Allauca\nXavier Uñaguazo\n\n\n\nSegundo Lugar\nFrank Zuñiga\nAlisson Sumba\n\n\n\nTercer Lugar\nDanny Coronel\nOscar Guaillas\n\n\n\nCuarto Lugar\nBriggite Yunga\nEvelyn Salamea\n\n\n\n\nMire aquí toda la llave Mire los premios aquí",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Ganadores del CrespiBot 2025</span>"
     ]
   }
 ]
