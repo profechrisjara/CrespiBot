@@ -16,6 +16,7 @@ book:
     - premios_crespibot.qmd
     - llaves_crespibot.qmd
     - ganadores_crespibot.qmd
+    - galeria_crespibot.qmd
     - references.qmd
   sidebar: 
       Style: "floating"
