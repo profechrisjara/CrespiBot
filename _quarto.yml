@@ -20,6 +20,7 @@ book:
   sidebar: 
       Style: "floating"
   page-footer: 
+    border: false
     left: "Copyright © 2025 Tec. Sup. Christopher Jara"
     right: 
       - icon: "github"
