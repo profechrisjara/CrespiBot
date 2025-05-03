@@ -18,13 +18,21 @@ book:
     - ganadores_crespibot.qmd
     - references.qmd
   sidebar: 
-    Style: "floating"
+      Style: "floating"
+  page-footer: 
+    left: "Copyright © 2025 Tec. Sup. Christopher Jara"
+    right: 
+      - icon: "github"
+        href: "https://github.com/profechrisjara"
+      - icon: "facebook"
+        href: "https://www.facebook.com/CrisJaraV"
+      - icon: "youtube"
+        href: "https://www.youtube.com/@MonederiaCuenca"
 
 bibliography: references.bib
 
 format:
   html:
-    include-after-body: include-after.html
     toc: true
     toc-title: "Temas a tratar"
     toc-depth: 3
