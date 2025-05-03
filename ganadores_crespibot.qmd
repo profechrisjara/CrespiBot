@@ -1,0 +1,98 @@
+# Ganadores del CrespiBot 2025
+
+> Buenas tardes, querida comunidad educativa Crespiana. Hoy es un día especial, puesto que la Unidad Educativa “Carlos Crespi II” ha marcado un hito dentro de la robótica educativa; no obstante, con este primer torneo, la organización ha concluido que estamos listos para invitar a toda la comunidad de robótica de nuestra ciudad a participar del CrespiBot en el 2026. Allí brindaremos un ambiente cálido, como nos caracteriza a los salesianos, así como un entorno competitivo. Tenemos las instalaciones, la organización y la logística para llevar este torneo al siguiente nivel. En 2026.
+
+## Agradecimientos especiales:
+
+Dicho esto, y antes de anunciar a los ganadores, es importante reconocer el trabajo y esfuerzo de quienes de alguna manera apoyaron a que el evento se lleve a cabo:
+
+### Homologación
+
+En la homologación estuvieron al frente docentes del área técnica de electromecánica; desde la perspectiva de la organización, son las personas más capacitadas para determinar pesos y medidas de las estructuras de los robots construidos por nuestros estudiantes.
+
+|                              |                                  |
+|:----------------------------:|:--------------------------------:|
+|       Prof. Iván Paute       |       Lcdo. Ernesto Chauca       |
+| ![](images/Iván%20Paute.png) | ![](images/Ernesto%20Chauca.png) |
+
+### Jueces
+
+Como jueces del evento tuvimos la suerte de tener a docentes con un alto nivel de experiencia y conocimiento del reglamento.
+
++:-------------------------------:+:----------------------------------:+:---------------------------------:+
+| Ing. Alfonso Cuzco              | Tec. Sup. Christopher Jara         | Prof. Cristian Matute             |
++---------------------------------+------------------------------------+-----------------------------------+
+| ![](images/Alfonso%20Cuzco.png) | ![](images/Christopher%20Jara.png) | ![](images/Cristian%20Matute.png) |
++---------------------------------+------------------------------------+-----------------------------------+
+| Juez de Robot Soocer            | Juez de Seguidores de línea        | Juez de Sumo RF                   |
+|                                 |                                    |                                   |
+|                                 | Juez de Robots de Destreza         |                                   |
++---------------------------------+------------------------------------+-----------------------------------+
+
+### Coordinación
+
+Y para finalizar, debemos agradecer a la institución pues, nos brindo las facilidades para el desarrolo, la coordinación y la logística, facilitandonos los espacios necesarios y el tiempo dentro de las fiestas patronales, logrando convertirlo en un magno evento de robótica.
+
++:--------------------------------:+:----------------------------------:+
+| Lcdo. Diego Fajardo              | Tec. Sup Christopher Jara          |
++----------------------------------+------------------------------------+
+| ![](images/Deigo%20Fakardo.png)  | ![](images/Christopher%20Jara.png) |
++----------------------------------+------------------------------------+
+
+## Resultados por categoria
+
+### Robot "Insecto de destreza RF Amateur"
+
++:-------------:+:--------------------:+:-----------------------------------------:+
+| Primer Lugar  | Juán José Mamallacta | ![](images/1%201er%20lugar%20Insecto.png) |
++---------------+----------------------+-------------------------------------------+
+
+[Mire aquí toda la llave](https://challonge.com/es/CrespiBot2025InsectosAmateur) [Mire los premios aquí](https://profechrisjara.github.io/CrespiBot/premios_crespibot.html#premios-para-robots-insecto-amateur.)
+
+### Robot "Seguidor de Linea autónomo Amateur"
+
++:------------:+:--------------:+:-------------------------------------------------------:+
+| Primer Lugar | Ángel Aucapiña | ![](images/1%201er%20lugar%20Seguidor%20de%20linea.png) |
+|              |                |                                                         |
+|              | Rousse Guamán  |                                                         |
++--------------+----------------+---------------------------------------------------------+
+
+[Mire aquí toda la llave](https://challonge.com/es/CrespiBot2025SeguidorLinea) [Mire los premios aquí](https://profechrisjara.github.io/CrespiBot/premios_crespibot.html#premios-para-robots-seguidores-de-l%C3%ADnea-amateur.)
+
+### Robot "Sumo RF Amateur"
+
++:-------------:+:----------------:+:-------------------------------------------------------:+
+| Primer Lugar  | Angel Aucapiña   | ![](images/1%201er%20lugar%20Seguidor%20de%20linea.png) |
+|               |                  |                                                         |
+|               | Fabricio Caceres |                                                         |
++---------------+------------------+---------------------------------------------------------+
+| Segundo Lugar | Justin Reino     | ![](images/1%202do%20Lugar%20Sumo.png)                  |
++---------------+------------------+---------------------------------------------------------+
+| Tercer Lugar  | Juan Maza        | ![](images/1%203er%20Lugar%20Sumo.png)                  |
+|               |                  |                                                         |
+|               | Edisson Maza     |                                                         |
++---------------+------------------+---------------------------------------------------------+
+
+[Mire aquí toda la llave](https://challonge.com/es/CrespiBot2025SumoAmateur) [Mire los premios aquí](https://profechrisjara.github.io/CrespiBot/premios_crespibot.html#premios-para-robots-de-sumo-rc-amateur.)
+
+### Robot "Soccer Amateur"
+
++-----------------------+----------------------+----------------------------------+
+| Primer Lugar          | Anthony Allauca      | ![](images/Soccer 1er Lugar.png) |
+|                       |                      |                                  |
+|                       | Xavier Uñaguazo      |                                  |
++-----------------------+----------------------+----------------------------------+
+| Segundo Lugar         | Frank Zuñiga         | ![](images/Soccer 2do Lugar.png) |
+|                       |                      |                                  |
+|                       | Alisson Sumba        |                                  |
++-----------------------+----------------------+----------------------------------+
+| Tercer Lugar          | Danny Coronel        | ![](images/Soccer 3er Lugar.png) |
+|                       |                      |                                  |
+|                       | Oscar Guaillas       |                                  |
++-----------------------+----------------------+----------------------------------+
+| Cuarto Lugar          | Briggite Yunga       |                                  |
+|                       |                      |                                  |
+|                       | Evelyn Salamea       |                                  |
++-----------------------+----------------------+----------------------------------+
+
+[Mire aquí toda la llave](https://challonge.com/es/CrespiBot2025SoccerAmateur) [Mire los premios aquí](https://profechrisjara.github.io/CrespiBot/premios_crespibot.html#premios-para-robots-soccer-amateur-equipos.)

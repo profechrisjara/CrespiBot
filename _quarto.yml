@@ -13,6 +13,7 @@ book:
     - linea_amateur.qmd
     - premios_crespibot.qmd
     - llaves_crespibot.qmd
+    - ganadores_crespibot.qmd
     - references.qmd
 
 bibliography: references.bib
