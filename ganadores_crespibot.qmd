@@ -33,11 +33,11 @@ Como jueces del evento tuvimos la suerte de tener a docentes con un alto nivel d
 
 Y para finalizar, debemos agradecer a la institución pues, nos brindo las facilidades para el desarrolo, la coordinación y la logística, facilitandonos los espacios necesarios y el tiempo dentro de las fiestas patronales, logrando convertirlo en un magno evento de robótica.
 
-+:--------------------------------:+:----------------------------------:+
-| Lcdo. Diego Fajardo              | Tec. Sup Christopher Jara          |
-+----------------------------------+------------------------------------+
-| ![](images/Deigo%20Fakardo.png)  | ![](images/Christopher%20Jara.png) |
-+----------------------------------+------------------------------------+
++:-------------------------------:+:----------------------------------:+
+| Lcdo. Diego Fajardo             | Tec. Sup Christopher Jara          |
++---------------------------------+------------------------------------+
+| ![](images/Deigo%20Fakardo.png) | ![](images/Christopher%20Jara.png) |
++---------------------------------+------------------------------------+
 
 ## Resultados por categoria
 
@@ -77,22 +77,22 @@ Y para finalizar, debemos agradecer a la institución pues, nos brindo las facil
 
 ### Robot "Soccer Amateur"
 
-+-----------------------+----------------------+----------------------------------+
-| Primer Lugar          | Anthony Allauca      | ![](images/Soccer 1er Lugar.png) |
-|                       |                      |                                  |
-|                       | Xavier Uñaguazo      |                                  |
-+-----------------------+----------------------+----------------------------------+
-| Segundo Lugar         | Frank Zuñiga         | ![](images/Soccer 2do Lugar.png) |
-|                       |                      |                                  |
-|                       | Alisson Sumba        |                                  |
-+-----------------------+----------------------+----------------------------------+
-| Tercer Lugar          | Danny Coronel        | ![](images/Soccer 3er Lugar.png) |
-|                       |                      |                                  |
-|                       | Oscar Guaillas       |                                  |
-+-----------------------+----------------------+----------------------------------+
-| Cuarto Lugar          | Briggite Yunga       |                                  |
-|                       |                      |                                  |
-|                       | Evelyn Salamea       |                                  |
-+-----------------------+----------------------+----------------------------------+
++-------------------+------------------+--------------------------------------+
+| Primer Lugar      | Anthony Allauca  | ![](images/Soccer%201er%20Lugar.png) |
+|                   |                  |                                      |
+|                   | Xavier Uñaguazo  |                                      |
++-------------------+------------------+--------------------------------------+
+| Segundo Lugar     | Frank Zuñiga     | ![](images/Soccer%202do%20Lugar.png) |
+|                   |                  |                                      |
+|                   | Alisson Sumba    |                                      |
++-------------------+------------------+--------------------------------------+
+| Tercer Lugar      | Danny Coronel    | ![](images/Soccer%203er%20Lugar.png) |
+|                   |                  |                                      |
+|                   | Oscar Guaillas   |                                      |
++-------------------+------------------+--------------------------------------+
+| Cuarto Lugar      | Briggite Yunga   |                                      |
+|                   |                  |                                      |
+|                   | Evelyn Salamea   |                                      |
++-------------------+------------------+--------------------------------------+
 
 [Mire aquí toda la llave](https://challonge.com/es/CrespiBot2025SoccerAmateur) [Mire los premios aquí](https://profechrisjara.github.io/CrespiBot/premios_crespibot.html#premios-para-robots-soccer-amateur-equipos.)

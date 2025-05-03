@@ -8,23 +8,30 @@ book:
   chapters:
     - index.qmd
     - Inscripcion.qmd
-    - soccer_amateur.qmd
-    - sumo_amateur.qmd
-    - linea_amateur.qmd
+    - part: Reglamentos
+      chapters:
+          - soccer_amateur.qmd
+          - sumo_amateur.qmd
+          - linea_amateur.qmd
     - premios_crespibot.qmd
     - llaves_crespibot.qmd
     - ganadores_crespibot.qmd
     - references.qmd
+  sidebar: 
+    Style: "floating"
 
 bibliography: references.bib
 
 format:
   html:
+    include-after-body: include-after.html
+    toc: true
+    toc-title: "Temas a tratar"
+    toc-depth: 3
+    number-sections: false
     theme:
       - superhero
       
-  pdf:
-    documentclass: scrreprt
-
-
-
+  pdf: default
+  docx: default
+  epub: default
